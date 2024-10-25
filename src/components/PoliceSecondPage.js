@@ -26,7 +26,7 @@ const PoliceSecondPage = () => {
 
     // Listen for scroll events
     const handleScroll = () => {
-      if (window.scrollY > 100) { // Adjust the scroll position as needed
+      if (window.scrollY > 100) {
         setParallaxClass('parallax-left');
       } else {
         setParallaxClass('');
@@ -60,13 +60,13 @@ const PoliceSecondPage = () => {
 
   return (
     <div>
-      <div className={`nav`}>
-        <h1 className={`title ${parallaxClass}`}>
+      <div className="nav">
+        <h1 className={`title ${parallaxClass} text-red-500`}>
           {language === 'en' ? 'Police Services' : 'Police సేవలు'}
         </h1>
 
         <div className="language-selector">
-          <label style={{color: "black", fontStyle: "20px", marginTop: "5px"}}>
+          <label className="language-label" style={{marginTop:"8px",fontWeight:"bold"}}>
             {language === 'en' ? 'Select Language:' : 'భాషను ఎంచుకోండి:'}
           </label>
           <select
@@ -83,7 +83,9 @@ const PoliceSecondPage = () => {
       <div className="container">
         {selectedService ? (
           <div className="service-details">
-            <h2>{selectedService["Service Name"][language]}</h2>
+            <h1 className="title text-red-500">
+              {selectedService["Service Name"][language]}
+            </h1>
             <table className="details-table">
               <tbody>
                 <tr>
@@ -112,7 +114,10 @@ const PoliceSecondPage = () => {
                 </tr>
               </tbody>
             </table>
-            <button className="back-button" onClick={() => setSelectedService(null)}>
+            <button
+              className="bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded"
+              onClick={() => setSelectedService(null)}
+            >
               {language === 'en' ? 'Back to List' : 'జాబితా వైపు తిరిగి'}
             </button>
           </div>
@@ -131,7 +136,10 @@ const PoliceSecondPage = () => {
                   <td>{service["S.No"]}</td>
                   <td>{service["Service Name"][language]}</td>
                   <td>
-                    <button className="view-details-button" onClick={() => handleServiceClick(service)}>
+                    <button
+                      className="bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded"
+                      onClick={() => handleServiceClick(service)}
+                    >
                       {language === 'en' ? 'View Details' : 'వివరాలు చూడండి'}
                     </button>
                   </td>

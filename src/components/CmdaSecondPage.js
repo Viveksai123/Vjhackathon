@@ -1,30 +1,43 @@
 import React, { useState, useEffect } from 'react';
-import './Page.css'
+import './Page.css';
 
-const CmdaPage = () => {
+const PoliceSecondPage = () => {
   const [servicesData, setServicesData] = useState([]);
   const [selectedService, setSelectedService] = useState(null);
   const [error, setError] = useState('');
-  const [loading, setLoading] = useState(true); // Loading state
   const [language, setLanguage] = useState('en');
+  const [parallaxClass, setParallaxClass] = useState(''); // State to manage parallax effect
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/cmda.json');
+        const response = await fetch('/Cmda.json');
         if (!response.ok) {
           throw new Error('Failed to fetch services data');
         }
         const data = await response.json();
         setServicesData(data);
-        setLoading(false); // Stop loading once data is fetched
       } catch (error) {
         setError('Error fetching services data. Please try again later.');
-        setLoading(false);
       }
     };
 
     fetchData();
+
+    // Listen for scroll events
+    const handleScroll = () => {
+      if (window.scrollY > 100) {
+        setParallaxClass('parallax-left');
+      } else {
+        setParallaxClass('');
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
   }, []);
 
   const handleServiceClick = (service) => {
@@ -41,92 +54,103 @@ const CmdaPage = () => {
     ));
   };
 
-  if (loading) {
-    return <p>Loading...</p>; // Display loading message while fetching data
-  }
-
   if (error) {
-    return (
-      <div className="text-red-500">
-        <p>{error}</p>
-        <button onClick={() => window.location.reload()} className="text-blue-500 underline">
-          Retry
-        </button>
-      </div>
-    );
+    return <p className="text-red-500">{error}</p>;
   }
 
   return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">
-        {language === 'en' ? 'CMDA Services' : 'CMDA సేవలు'}
-      </h1>
+    <div>
+      <div className="nav">
+        <h1 className={`title ${parallaxClass} text-red-500`}>
+          {language === 'en' ? 'CMDA Services' : 'CMDA సేవలు'}
+        </h1>
 
-      <div className="mb-4">
-        <label className="mr-2">
-          {language === 'en' ? 'Select Language:' : 'భాషను ఎంచుకోండి:'}
-        </label>
-        <select
-          value={language}
-          onChange={(e) => setLanguage(e.target.value)}
-          className="border p-1"
-          aria-label="Language Selector"
-        >
-          <option value="en">English</option>
-          <option value="te">Telugu</option>
-        </select>
+        <div className="language-selector">
+          <label className="language-label" style={{marginTop:"8px",fontWeight:"bold"}}>
+            {language === 'en' ? 'Select Language:' : 'భాషను ఎంచుకోండి:'}
+          </label>
+          <select
+            value={language}
+            onChange={(e) => setLanguage(e.target.value)}
+            className="select-dropdown"
+          >
+            <option value="en">English</option>
+            <option value="te">Telugu</option>
+          </select>
+        </div>
       </div>
 
-      {selectedService ? (
-        <div>
-          <h2 className="text-xl font-bold">{selectedService["Service Name"][language]}</h2>
-          <p>
-            <strong>{language === 'en' ? 'Fee:' : 'శ్రేణి:'}</strong> {selectedService["Fee Value"][language]}
-          </p>
-          <p>
-            <strong>{language === 'en' ? 'Timeline:' : 'సమయం:'}</strong> {selectedService["Timeline Value"][language]}
-          </p>
-          <p className="mt-4">
-            <strong>{language === 'en' ? 'Description:' : 'వివరణ:'}</strong> {renderMultiLineText(selectedService["Description"][language])}
-          </p>
-          <p>
-            <strong>{language === 'en' ? 'Service Delivery Channels:' : 'సేవ అందింపు ఛానల్స్:'}</strong> {renderMultiLineText(selectedService["Service Delivery Channels"][language])}
-          </p>
-          <p>
-            <strong>{language === 'en' ? 'Service Timings:' : 'సేవ సమయాలు:'}</strong> {renderMultiLineText(selectedService["Service Timings"][language])}
-          </p>
-          <p>
-            <strong>{language === 'en' ? 'Service Payment Modes:' : 'సేవ చెల్లింపు పద్ధతులు:'}</strong> {renderMultiLineText(selectedService["Payment Modes"][language])}
-          </p>
-          <button
-            className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
-            onClick={() => setSelectedService(null)}
-            aria-label="Back to service list"
-          >
-            {language === 'en' ? 'Back to List' : 'జాబితా వైపు తిరిగి'}
-          </button>
-        </div>
-      ) : (
-        <ul className="list-disc pl-6">
-          {servicesData.map((service, index) => (
-            <li key={index} className="mb-4">
-              <p className="font-semibold">
-                {service["S.No"]}. {service["Service Name"][language]}
-              </p>
-              <p>CMDA</p>
-              <button
-                className="ml-4 text-white-500"
-                onClick={() => handleServiceClick(service)}
-                aria-label={`View details of ${service["Service Name"][language]}`}
-              >
-                {language === 'en' ? 'View Details' : 'వివరాలు చూడండి'}
-              </button>
-            </li>
-          ))}
-        </ul>
-      )}
+      <div className="container">
+        {selectedService ? (
+          <div className="service-details">
+            <h1 className="title6 text-red-500">
+              {selectedService["Service Name"][language]}
+            </h1>
+            <table className="details-table">
+              <tbody>
+                <tr>
+                  <td>{language === 'en' ? 'Fee:' : 'శ్రేణి:'}</td>
+                  <td>{selectedService["Fee Value"][language]}</td>
+                </tr>
+                <tr>
+                  <td>{language === 'en' ? 'Timeline:' : 'సమయం:'}</td>
+                  <td>{selectedService["Timeline Value"][language]}</td>
+                </tr>
+                <tr>
+                  <td>{language === 'en' ? 'Description:' : 'వివరణ:'}</td>
+                  <td>{renderMultiLineText(selectedService["Description"][language])}</td>
+                </tr>
+                <tr>
+                  <td>{language === 'en' ? 'Service Delivery Channels:' : 'సేవ అందింపు ఛానల్స్:'}</td>
+                  <td>{renderMultiLineText(selectedService["Service Delivery Channels"][language])}</td>
+                </tr>
+                <tr>
+                  <td>{language === 'en' ? 'Service Timings:' : 'సేవ సమయాలు:'}</td>
+                  <td>{renderMultiLineText(selectedService["Service Timings"][language])}</td>
+                </tr>
+                <tr>
+                  <td>{language === 'en' ? 'Service Payment Modes:' : 'సేవ చెల్లింపు పద్ధతులు:'}</td>
+                  <td>{renderMultiLineText(selectedService["Payment Modes"][language])}</td>
+                </tr>
+              </tbody>
+            </table>
+            <button
+              className="bg-orange-500 hover:bg-red-600 text-white py-2 px-4 rounded"
+              onClick={() => setSelectedService(null)}
+            >
+              {language === 'en' ? 'Back to List' : 'జాబితా వైపు తిరిగి'}
+            </button>
+          </div>
+        ) : (
+          <table className="services-table">
+            <thead>
+              <tr>
+                <th>{language === 'en' ? 'S.No' : 'క్రమ సంఖ్య'}</th>
+                <th>{language === 'en' ? 'Service Name' : 'సేవ పేరు'}</th>
+                <th>{language === 'en' ? 'Actions' : 'చర్యలు'}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {servicesData.map((service, index) => (
+                <tr key={index}>
+                  <td>{service["S.No"]}</td>
+                  <td>{service["Service Name"][language]}</td>
+                  <td>
+                    <button
+                      className="bg-orange-500 hover:bg-red-600 text-white py-2 px-4 rounded"
+                      onClick={() => handleServiceClick(service)}
+                    >
+                      {language === 'en' ? 'View Details' : 'వివరాలు చూడండి'}
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+      </div>
     </div>
   );
 };
 
-export default CmdaPage;
+export default PoliceSecondPage;

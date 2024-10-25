@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { FaShieldAlt, FaBolt, FaWallet, FaBuilding, FaWater, FaCity, FaHandsHelping, FaFileAlt } from 'react-icons/fa';
 
 const FirstPage = () => {
   const navigate = useNavigate();
@@ -20,7 +21,7 @@ const FirstPage = () => {
   const handleButtonClick4 = () => {
     navigate('/ghmcsecond-page');
   };
-  const handleButtonClick5= () => {
+  const handleButtonClick5 = () => {
     navigate('/hmwssbsecond-page');
   };
   const handleButtonClick6 = () => {
@@ -30,57 +31,62 @@ const FirstPage = () => {
     navigate('/endowmentsecond-page');
   };
 
-
   return (
-    <div className="p-6 m-6">
-      
+    <div className="p-6 m-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       <button
         onClick={handleButtonClick}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-blue-500 text-white px-6 py-4 rounded hover:bg-blue-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to Second Page
+        <FaFileAlt className="inline-block mr-2" size={36} /> Go to Rta
       </button>
+
       <button
         onClick={handleButtonClick1}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-red-500 text-white px-6 py-4 rounded hover:bg-red-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to Police
+        <FaShieldAlt className="inline-block mr-2" size={36} /> Go to Police
       </button>
+
       <button
         onClick={handleButtonClick2}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-yellow-500 text-white px-6 py-4 rounded hover:bg-yellow-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to tgspdc
+        <FaBolt className="inline-block mr-2" size={36} /> Go to tgspdc
       </button>
+
       <button
         onClick={handleButtonClick3}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-green-500 text-white px-6 py-4 rounded hover:bg-green-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to twallet
+        <FaWallet className="inline-block mr-2" size={36} /> Go to twallet
       </button>
+
       <button
         onClick={handleButtonClick4}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-purple-500 text-white px-6 py-4 rounded hover:bg-purple-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to ghmc.json
+        <FaBuilding className="inline-block mr-2" size={36} /> Go to ghmc.json
       </button>
+
       <button
         onClick={handleButtonClick5}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-teal-500 text-white px-6 py-4 rounded hover:bg-teal-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to hmwssb
+        <FaWater className="inline-block mr-2" size={36} /> Go to hmwssb
       </button>
+
       <button
         onClick={handleButtonClick6}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-orange-500 text-white px-6 py-4 rounded hover:bg-orange-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to cmda
+        <FaCity className="inline-block mr-2" size={36} /> Go to cmda
       </button>
+
       <button
         onClick={handleButtonClick7}
-        className="bg-blue-500 text-white px-4 py-2 mt-4 rounded"
+        className="button bg-pink-500 text-white px-6 py-4 rounded hover:bg-pink-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        Go to endowment
+        <FaHandsHelping className="inline-block mr-2" size={36} /> Go to endowment
       </button>
     </div>
   );
