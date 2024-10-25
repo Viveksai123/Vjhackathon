@@ -1,0 +1,2172 @@
+[
+      {
+        "S.No": "1",
+        "Service Name": {
+          "en": "ADILABAD CHALLAN PAYMENT",
+          "te": "అదిలాబాద్ ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to distribute the ADILABAD CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం అదిలాబాద్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "2",
+        "Service Name": {
+          "en": "ADILABAD SPOT CHALLAN PAYMENT",
+          "te": "అదిలాబాద్ స్పాట్ ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to distribute the ADILABAD SPOT CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం అదిలాబాద్ స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "3",
+        "Service Name": {
+          "en": "ARMS DEALER",
+          "te": "ఆర్మ్స్ డీలర్"
+        },
+        "Fee Value": {
+          "en": "45",
+          "te": "₹45"
+        },
+        "Timeline Value": {
+          "en": "45 Working Days",
+          "te": "45 పని రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to distribute the ARMS DEALER.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం ఆర్మ్స్ డీలర్‌ను పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Franchisee Centres, Govt Centers",
+          "te": "ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Franchisee, Govt Centers: Cash/T-Wallet",
+          "te": "ఫ్రాంచైసీ, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "4",
+        "Service Name": {
+          "en": "BHADRADRI KOTHAGUDEM CHALLAN PAYMENT",
+          "te": "భద్రాద్రి కొత్తగూడెం ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to distribute the BHADRADRI KOTHAGUDEM CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం భద్రాద్రి కొత్తగూడెం ఛాలన్ చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "5",
+        "Service Name": {
+          "en": "BHADRADRI KOTHAGUDEM SPOT CHALLAN PAYMENT",
+          "te": "భద్రాద్రి కొత్తగూడెం స్పాట్ ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to distribute the BHADRADRI KOTHAGUDEM SPOT CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం భద్రాద్రి కొత్తగూడెం స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "6",
+        "Service Name": {
+          "en": "CHALLAN STATUS",
+          "te": "ఛాలన్ స్థితి"
+        },
+        "Fee Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide information about the CHALLAN STATUS.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం ఛాలన్ స్థితి గురించి సమాచారం అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online",
+          "te": "ఆన్‌లైన్"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours",
+          "te": "ఆన్‌లైన్: 24 గంటలు"
+        },
+        "Payment Modes": {
+          "en": "NA",
+          "te": "NA"
+        }
+      },
+      {
+        "S.No": "7",
+        "Service Name": {
+          "en": "SAME DAY CHALLAN PAYMENT",
+          "te": "అదే రోజు ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "1 Day",
+          "te": "1 రోజు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide SAME DAY CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం అదే రోజు ఛాలన్ చెల్లింపును అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "8",
+        "Service Name": {
+          "en": "EXISTING CHALLAN PAYMENT",
+          "te": "ఉన్న ఛాలన్ చెల్లింపు"
+        },
+        "Fee Value": {
+          "en": "5",
+          "te": "₹5"
+        },
+        "Timeline Value": {
+          "en": "NA",
+          "te": "NA"
+        },
+        "Description": {
+          "en": "The Objective of this service is to facilitate EXISTING CHALLAN PAYMENT.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం ఉన్న ఛాలన్ చెల్లింపును సులభతరం చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Franchisee Centres, Govt Centers",
+          "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Online: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+          "te": "ఆన్‌లైన్: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+          "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పే టిమ్/టిడబ్ల్యూ-వాలెట్, ఫ్రాంచైసీ: నగదు/టిడబ్ల్యూ-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టిడబ్ల్యూ-వాలెట్"
+        }
+      },
+      {
+        "S.No": "9",
+        "Service Name": {
+          "en": "HEALTH CERTIFICATE",
+          "te": "ఆరోగ్య సర్టిఫికేట్"
+        },
+        "Fee Value": {
+          "en": "100",
+          "te": "₹100"
+        },
+        "Timeline Value": {
+          "en": "3 Days",
+          "te": "3 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue a HEALTH CERTIFICATE.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం ఆరోగ్య సర్టిఫికేట్ ను జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Govt Centers",
+          "te": "ఆన్‌లైన్, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Govt Centres: 9:00 AM to 5:00 PM",
+          "te": "ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI",
+          "te": "నగదు, UPI"
+        }
+      },
+      {
+        "S.No": "10",
+        "Service Name": {
+          "en": "BIRTH CERTIFICATE",
+          "te": "జన్మ సర్టిఫికేట్"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide a BIRTH CERTIFICATE.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం జన్మ సర్టిఫికేట్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Govt Centers",
+          "te": "ఆన్‌లైన్, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Govt Centres: 9:00 AM to 5:00 PM",
+          "te": "ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI",
+          "te": "నగదు, UPI"
+        }
+      },
+      {
+        "S.No": "11",
+        "Service Name": {
+          "en": "DEATH CERTIFICATE",
+          "te": "మరణ సర్టిఫికేట్"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide a DEATH CERTIFICATE.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం మరణ సర్టిఫికేట్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Govt Centers",
+          "te": "ఆన్‌లైన్, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Govt Centres: 9:00 AM to 5:00 PM",
+          "te": "ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI",
+          "te": "నగదు, UPI"
+        }
+      },
+      {
+        "S.No": "12",
+        "Service Name": {
+          "en": "MARRIAGE CERTIFICATE",
+          "te": "వివాహ సర్టిఫికేట్"
+        },
+        "Fee Value": {
+          "en": "100",
+          "te": "₹100"
+        },
+        "Timeline Value": {
+          "en": "14 Days",
+          "te": "14 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue a MARRIAGE CERTIFICATE.",
+          "te": "ఈ సేవ యొక్క లక్ష్యం వివాహ సర్టిఫికేట్ ను జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Govt Centers",
+          "te": "ఆన్‌లైన్, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Govt Centres: 9:00 AM to 5:00 PM",
+          "te": "ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI",
+          "te": "నగదు, UPI"
+        }
+      },
+      {
+        "S.No": "13",
+        "Service Name": {
+          "en": "SOCIAL SECURITY PENSION",
+          "te": "సామాజిక భద్రత పింఛన్"
+        },
+        "Fee Value": {
+          "en": "Free",
+          "te": "ఉచిత"
+        },
+        "Timeline Value": {
+          "en": "30 Days",
+          "te": "30 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide a SOCIAL SECURITY PENSION to eligible beneficiaries.",
+          "te": "అర్హత ఉన్న ప్రయోజనదారులకు సామాజిక భద్రత పింఛన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Govt Centers",
+          "te": "ఆన్‌లైన్, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Govt Centres: 9:00 AM to 5:00 PM",
+          "te": "ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Bank Transfer",
+          "te": "బ్యాంక్ ట్రాన్స్‌ఫర్"
+        }
+      },
+      {
+        "S.No": "14",
+        "Service Name": {
+          "en": "SKILL DEVELOPMENT PROGRAM",
+          "te": "నైపుణ్య అభివృద్ధి కార్యక్రమం"
+        },
+        "Fee Value": {
+          "en": "Free",
+          "te": "ఉచిత"
+        },
+        "Timeline Value": {
+          "en": "Ongoing",
+          "te": "ప్రవాహంలో"
+        },
+        "Description": {
+          "en": "The Objective of this service is to enhance skills of individuals for better job opportunities.",
+          "te": "ఉత్తమ ఉద్యోగ అవకాశాల కోసం వ్యక్తుల నైపుణ్యాలను మెరుగుపరచడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Training Centers",
+          "te": "ఆన్‌లైన్, శిక్షణ కేంద్రాలు"
+        },
+        "Service Timings": {
+          "en": "Training Centers: 10:00 AM to 4:00 PM",
+          "te": "శిక్షణ కేంద్రాలు: ఉదయం 10:00 నుండి మధ్యాహ్నం 4:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Free",
+          "te": "ఉచిత"
+        }
+      },
+      {
+        "S.No": "15",
+        "Service Name": {
+          "en": "LAND RECORDS",
+          "te": "భూమి రికార్డులు"
+        },
+        "Fee Value": {
+          "en": "20",
+          "te": "₹20"
+        },
+        "Timeline Value": {
+          "en": "2 Days",
+          "te": "2 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide access to LAND RECORDS.",
+          "te": "భూమి రికార్డులకు యాక్సెస్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Revenue Offices",
+          "te": "ఆన్‌లైన్, రెవెన్యూ కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Revenue Offices: 9:00 AM to 5:00 PM",
+          "te": "రెవెన్యూ కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "16",
+        "Service Name": {
+          "en": "ROAD PERMIT",
+          "te": "రోడ్డు అనుమతి"
+        },
+        "Fee Value": {
+          "en": "150",
+          "te": "₹150"
+        },
+        "Timeline Value": {
+          "en": "5 Days",
+          "te": "5 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue a ROAD PERMIT for transportation.",
+          "te": "రవాణా కోసం రోడ్ అనుమతిని జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Transport Offices",
+          "te": "ఆన్‌లైన్, రవాణా కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Transport Offices: 9:00 AM to 5:00 PM",
+          "te": "రవాణా కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "17",
+        "Service Name": {
+          "en": "HEALTH INSURANCE",
+          "te": "ఆరోగ్య బీమా"
+        },
+        "Fee Value": {
+          "en": "Varies",
+          "te": "వివిధ"
+        },
+        "Timeline Value": {
+          "en": "Immediate",
+          "te": "తక్షణం"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide HEALTH INSURANCE coverage.",
+          "te": "ఆరోగ్య బీమా కవరేజ్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Insurance Offices",
+          "te": "ఆన్‌లైన్, బీమా కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Insurance Offices: 9:00 AM to 6:00 PM",
+          "te": "బీమా కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 6:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Credit, Debit, UPI",
+          "te": "క్రెడిట్, డెబిట్, UPI"
+        }
+      },
+      {
+        "S.No": "18",
+        "Service Name": {
+          "en": "WATER CONNECTION",
+          "te": "నీటి కనెక్షన్"
+        },
+        "Fee Value": {
+          "en": "500",
+          "te": "₹500"
+        },
+        "Timeline Value": {
+          "en": "10 Days",
+          "te": "10 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide a WATER CONNECTION to households.",
+          "te": "ఇళ్లకు నీటి కనెక్షన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Water Supply Offices",
+          "te": "ఆన్‌లైన్, నీటి సరఫరా కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Water Supply Offices: 9:00 AM to 5:00 PM",
+          "te": "నీటి సరఫరా కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "19",
+        "Service Name": {
+          "en": "ELECTRICITY CONNECTION",
+          "te": "ఇలెక్ట్రిసిటీ కనెక్షన్"
+        },
+        "Fee Value": {
+          "en": "1000",
+          "te": "₹1000"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide an ELECTRICITY CONNECTION to households.",
+          "te": "ఇళ్లకు ఇలెక్ట్రిసిటీ కనెక్షన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Electricity Board",
+          "te": "ఆన్‌లైన్, ఇలెక్ట్రిసిటీ బోర్డు"
+        },
+        "Service Timings": {
+          "en": "Electricity Board: 9:00 AM to 5:00 PM",
+          "te": "ఇలెక్ట్రిసిటీ బోర్డు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "20",
+        "Service Name": {
+          "en": "CIVIL REGISTRATION",
+          "te": "నాగరిక నమోదు"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide CIVIL REGISTRATION services for births, deaths, and marriages.",
+          "te": "జననాలు, మరణాలు మరియు వివాహాల కోసం నాగరిక నమోదు సేవలను అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "21",
+        "Service Name": {
+          "en": "PASSPORT SERVICES",
+          "te": "పాస్‌పోర్ట్ సేవలు"
+        },
+        "Fee Value": {
+          "en": "1500",
+          "te": "₹1500"
+        },
+        "Timeline Value": {
+          "en": "30 Days",
+          "te": "30 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide PASSPORT issuance and renewal.",
+          "te": "పాస్‌పోర్ట్ జారీ మరియు నవీకరణ సేవలు అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Passport Seva Kendra",
+          "te": "ఆన్‌లైన్, పాస్‌పోర్ట్ సేవా కేంద్రం"
+        },
+        "Service Timings": {
+          "en": "Passport Seva Kendra: 9:00 AM to 5:30 PM",
+          "te": "పాస్‌పోర్ట్ సేవా కేంద్రం: ఉదయం 9:00 నుండి సాయంత్రం 5:30 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Credit, Debit, UPI",
+          "te": "క్రెడిట్, డెబిట్, UPI"
+        }
+      },
+      {
+        "S.No": "22",
+        "Service Name": {
+          "en": "MARRIAGE REGISTRATION",
+          "te": "వివాహ నమోదు"
+        },
+        "Fee Value": {
+          "en": "1000",
+          "te": "₹1000"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to facilitate MARRIAGE REGISTRATION for couples.",
+          "te": "కపుల్స్ కోసం వివాహ నమోదు సౌకర్యం కల్పించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "23",
+        "Service Name": {
+          "en": "PROPERTY REGISTRATION",
+          "te": "ఆస్తి నమోదు"
+        },
+        "Fee Value": {
+          "en": "Varies",
+          "te": "వివిధ"
+        },
+        "Timeline Value": {
+          "en": "30 Days",
+          "te": "30 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide PROPERTY REGISTRATION services.",
+          "te": "ఆస్తి నమోదు సేవలు అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "24",
+        "Service Name": {
+          "en": "BIRTH CERTIFICATE",
+          "te": "జనన ధ్రువీకరణ పత్రం"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue BIRTH CERTIFICATES for new borns.",
+          "te": "కొత్తగా జనించిన పిల్లల కోసం జనన ధ్రువీకరణ పత్రాలను జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "25",
+        "Service Name": {
+          "en": "DEATH CERTIFICATE",
+          "te": "మృత్యుధ్రువీకరణ పత్రం"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue DEATH CERTIFICATES.",
+          "te": "మృతుల కోసం మృత్యుధ్రువీకరణ పత్రాలను జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "26",
+        "Service Name": {
+          "en": "RESIDENTIAL PERMIT",
+          "te": "నివాస అనుమతి"
+        },
+        "Fee Value": {
+          "en": "200",
+          "te": "₹200"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide RESIDENTIAL PERMIT for residents.",
+          "te": "నివాసాల కోసం నివాస అనుమతులు అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Local Authorities",
+          "te": "ఆన్‌లైన్, స్థానిక అధికారికులు"
+        },
+        "Service Timings": {
+          "en": "Local Authorities: 9:00 AM to 5:00 PM",
+          "te": "స్థానిక అధికారికులు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "27",
+        "Service Name": {
+          "en": "INCOME CERTIFICATE",
+          "te": "ఆదాయ ధ్రువీకరణ పత్రం"
+        },
+        "Fee Value": {
+          "en": "100",
+          "te": "₹100"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide INCOME CERTIFICATES for individuals.",
+          "te": "వ్యక్తులకు ఆదాయ ధ్రువీకరణ పత్రాలను అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Local Authorities",
+          "te": "ఆన్‌లైన్, స్థానిక అధికారికులు"
+        },
+        "Service Timings": {
+          "en": "Local Authorities: 9:00 AM to 5:00 PM",
+          "te": "స్థానిక అధికారికులు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "28",
+        "Service Name": {
+          "en": "CASTE CERTIFICATE",
+          "te": "జాతి ధ్రువీకరణ పత్రం"
+        },
+        "Fee Value": {
+          "en": "100",
+          "te": "₹100"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide CASTE CERTIFICATES for individuals.",
+          "te": "వ్యక్తులకు జాతి ధ్రువీకరణ పత్రాలను అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Local Authorities",
+          "te": "ఆన్‌లైన్, స్థానిక అధికారికులు"
+        },
+        "Service Timings": {
+          "en": "Local Authorities: 9:00 AM to 5:00 PM",
+          "te": "స్థానిక అధికారికులు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "29",
+        "Service Name": {
+          "en": "BIRTH CERTIFICATE",
+          "te": "జన్మ ధ్రువీకరణ పత్రం"
+        },
+        "Fee Value": {
+          "en": "50",
+          "te": "₹50"
+        },
+        "Timeline Value": {
+          "en": "10 Days",
+          "te": "10 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to issue BIRTH CERTIFICATES.",
+          "te": "జన్మల కోసం జన్మ ధ్రువీకరణ పత్రాలను జారీ చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "30",
+        "Service Name": {
+          "en": "LAND RECORDS",
+          "te": "భూమి రికార్డులు"
+        },
+        "Fee Value": {
+          "en": "100",
+          "te": "₹100"
+        },
+        "Timeline Value": {
+          "en": "7 Days",
+          "te": "7 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide access to LAND RECORDS.",
+          "te": "భూమి రికార్డులకు యాక్సెస్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Revenue Offices",
+          "te": "ఆన్‌లైన్, ఆదాయ కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Revenue Offices: 9:00 AM to 5:00 PM",
+          "te": "ఆదాయ కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "31",
+        "Service Name": {
+          "en": "PROPERTY REGISTRATION",
+          "te": "సంపత్తి నమోదు"
+        },
+        "Fee Value": {
+          "en": "500",
+          "te": "₹500"
+        },
+        "Timeline Value": {
+          "en": "15 Days",
+          "te": "15 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to facilitate PROPERTY REGISTRATION.",
+          "te": "సంపత్తి నమోదు సౌకర్యం చేయడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Registration Offices",
+          "te": "ఆన్‌లైన్, నమోదు కార్యాలయాలు"
+        },
+        "Service Timings": {
+          "en": "Registration Offices: 9:00 AM to 5:00 PM",
+          "te": "నమోదు కార్యాలయాలు: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, UPI, Online Payment",
+          "te": "నగదు, UPI, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "32",
+        "Service Name": {
+          "en": "ELECTRICITY CONNECTION",
+          "te": "విద్యుత్ కనెక్షన్"
+        },
+        "Fee Value": {
+          "en": "1000",
+          "te": "₹1000"
+        },
+        "Timeline Value": {
+          "en": "30 Days",
+          "te": "30 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide ELECTRICITY CONNECTION.",
+          "te": "విద్యుత్ కనెక్షన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Electricity Department",
+          "te": "ఆన్‌లైన్, విద్యుత్ శాఖ"
+        },
+        "Service Timings": {
+          "en": "Electricity Department: 9:00 AM to 5:00 PM",
+          "te": "విద్యుత్ శాఖ: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "33",
+        "Service Name": {
+          "en": "WATER CONNECTION",
+          "te": "నీటి కనెక్షన్"
+        },
+        "Fee Value": {
+          "en": "500",
+          "te": "₹500"
+        },
+        "Timeline Value": {
+          "en": "20 Days",
+          "te": "20 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide WATER CONNECTION.",
+          "te": "నీటి కనెక్షన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Water Supply Department",
+          "te": "ఆన్‌లైన్, నీటి సరఫరా శాఖ"
+        },
+        "Service Timings": {
+          "en": "Water Supply Department: 9:00 AM to 5:00 PM",
+          "te": "నీటి సరఫరా శాఖ: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+        "S.No": "34",
+        "Service Name": {
+          "en": "SEWAGE CONNECTION",
+          "te": "కందన కనెక్షన్"
+        },
+        "Fee Value": {
+          "en": "600",
+          "te": "₹600"
+        },
+        "Timeline Value": {
+          "en": "25 Days",
+          "te": "25 రోజులు"
+        },
+        "Description": {
+          "en": "The Objective of this service is to provide SEWAGE CONNECTION.",
+          "te": "కందన కనెక్షన్ అందించడం."
+        },
+        "Service Delivery Channels": {
+          "en": "Online, Sewerage Department",
+          "te": "ఆన్‌లైన్, కందన శాఖ"
+        },
+        "Service Timings": {
+          "en": "Sewerage Department: 9:00 AM to 5:00 PM",
+          "te": "కందన శాఖ: ఉదయం 9:00 నుండి సాయంత్రం 5:00 వరకు"
+        },
+        "Payment Modes": {
+          "en": "Cash, Online Payment",
+          "te": "నగదు, ఆన్‌లైన్ చెల్లింపు"
+        }
+      },
+      {
+          "S.No": "35",
+          "Service Name": {
+              "en": "MULUGU SPOT CHALLAN PAYMENT",
+              "te": "ములుగు స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MULUGU SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం ములుగు స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "36",
+          "Service Name": {
+              "en": "N.O.C LETTER FOR INSTALLATION OF PETROL BUNKS/LPG GAS",
+              "te": "పెట్రోల్ బంకులు/LPG గ్యాస్ సంస్థాపన కోసం N.O.C లేఖ"
+          },
+          "Fee Value": {
+              "en": "45",
+              "te": "₹45"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the N.O.C LETTER FOR INSTALLATION OF PETROL BUNKS/LPG GAS.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం పెట్రోల్ బంకులు/LPG గ్యాస్ సంస్థాపన కోసం N.O.C లేఖను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Franchisee Centres, Govt Centers",
+              "te": "ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Franchisee, Govt Centers: Cash, T-Wallet",
+              "te": "ఫ్రాంచైసీ, సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "37",
+          "Service Name": {
+              "en": "NAGARKURNOOL CHALLAN PAYMENT",
+              "te": "నగర్ కర్నూల్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NAGARKURNOOL CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నగర్ కర్నూల్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "38",
+          "Service Name": {
+              "en": "NAGARKURNOOL SPOT CHALLAN PAYMENT",
+              "te": "నగర్ కర్నూల్ స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NAGARKURNOOL SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నగర్ కర్నూల్ స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "39",
+          "Service Name": {
+              "en": "NALGONDA CHALLAN PAYMENT",
+              "te": "నాళ్గొండ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NALGONDA CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నాళ్గొండ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "40",
+          "Service Name": {
+              "en": "NALGONDA SPOT CHALLAN PAYMENT",
+              "te": "నాళ్గొండ స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NALGONDA SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నాళ్గొండ స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "41",
+          "Service Name": {
+              "en": "NIZAMABAD CHALLAN PAYMENT",
+              "te": "నిజామాబాద్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NIZAMABAD CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నిజామాబాద్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "42",
+          "Service Name": {
+              "en": "NIZAMABAD SPOT CHALLAN PAYMENT",
+              "te": "నిజామాబాద్ స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NIZAMABAD SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నిజామాబాద్ స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "43",
+          "Service Name": {
+              "en": "RAJANNA SIRCILLA CHALLAN PAYMENT",
+              "te": "రాజన్న సిరిసిల్ల చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAJANNA SIRCILLA CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రాజన్న సిరిసిల్ల చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "44",
+          "Service Name": {
+              "en": "RAJANNA SIRCILLA SPOT CHALLAN PAYMENT",
+              "te": "రాజన్న సిరిసిల్ల స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAJANNA SIRCILLA SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రాజన్న సిరిసిల్ల స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "45",
+          "Service Name": {
+              "en": "SANGAREDDY CHALLAN PAYMENT",
+              "te": "సంగారెడ్డి చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SANGAREDDY CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సంగారెడ్డి చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "46",
+          "Service Name": {
+              "en": "SANGAREDDY SPOT CHALLAN PAYMENT",
+              "te": "సంగారెడ్డి స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SANGAREDDY SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సంగారెడ్డి స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "47",
+          "Service Name": {
+              "en": "MEDCHAL MALKAJGIRI CHALLAN PAYMENT",
+              "te": "మెడ్చల్ మల్కాజిగిరి చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MEDCHAL MALKAJGIRI CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మెడ్చల్ మల్కాజిగిరి చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "48",
+          "Service Name": {
+              "en": "MEDCHAL MALKAJGIRI SPOT CHALLAN PAYMENT",
+              "te": "మెడ్చల్ మల్కాజిగిరి స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MEDCHAL MALKAJGIRI SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మెడ్చల్ మల్కాజిగిరి స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "49",
+          "Service Name": {
+              "en": "MEDAK CHALLAN PAYMENT",
+              "te": "మెదక్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MEDAK CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మెదక్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "50",
+          "Service Name": {
+              "en": "MEDAK SPOT CHALLAN PAYMENT",
+              "te": "మెదక్ స్పాట్ చెల్లణ్ పేమెంట్"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MEDAK SPOT CHALLAN PAYMENT.",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మెదక్ స్పాట్ చెల్లణ్ పేమెంట్ ను పంపిణీ చేయడం."
+          },
+          "Service Delivery Channels": {
+              "en": "Online, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్, ఫ్రాంచైసీ కేంద్రాలు, సర్కారీ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైసీ: 24 గంటలు, సర్కారీ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటియం, టీ-వాలెట్; ఫ్రాంచైసీ: నగదు, టీ-వాలెట్; సర్కారీ కేంద్రాలు: నగదు, టీ-వాలెట్"
+          }
+      },
+      {
+          "S.No": "51",
+          "Service Name": {
+              "en": "RAJANNA SIRCILLA CHALLAN PAYMENT",
+              "te": "రాజన్న సిరిసిల్ల ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAJANNA SIRCILLA CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రాజన్న సిరిసిల్ల ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "52",
+          "Service Name": {
+              "en": "RAJANNA SIRCILLA SPOT CHALLAN PAYMENT",
+              "te": "రాజన్న సిరిసిల్ల స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAJANNA SIRCILLA SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రాజన్న సిరిసిల్ల స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "53",
+          "Service Name": {
+              "en": "RAMAGUNDAM CHALLAN PAYMENT",
+              "te": "రామగుండం ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAMAGUNDAM CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రామగుండం ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "54",
+          "Service Name": {
+              "en": "RAMAGUNDAM SPOT CHALLAN PAYMENT",
+              "te": "రామగుండం స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the RAMAGUNDAM SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం రామగుండం స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "55",
+          "Service Name": {
+              "en": "SANGAREDDY CHALLAN PAYMENT",
+              "te": "సంగారెడ్డి ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SANGAREDDY CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సంగారెడ్డి ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "56",
+          "Service Name": {
+              "en": "SANGAREDDY SPOT CHALLAN PAYMENT",
+              "te": "సంగారెడ్డి స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SANGAREDDY SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సంగారెడ్డి స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "57",
+          "Service Name": {
+              "en": "SIDDIPET CHALLAN PAYMENT",
+              "te": "సిద్ధిపేట ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SIDDIPET CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సిద్ధిపేట ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "58",
+          "Service Name": {
+              "en": "SIDDIPET SPOT CHALLAN PAYMENT",
+              "te": "సిద్ధిపేట స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SIDDIPET SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సిద్ధిపేట స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "59",
+          "Service Name": {
+              "en": "SURYAPET CHALLAN PAYMENT",
+              "te": "సూర్యాపేట ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SURYAPET CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సూర్యాపేట ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "60",
+          "Service Name": {
+              "en": "SURYAPET SPOT CHALLAN PAYMENT",
+              "te": "సూర్యాపేట స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the SURYAPET SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం సూర్యాపేట స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "61",
+          "Service Name": {
+              "en": "VIKARABAD CHALLAN PAYMENT",
+              "te": "వికారాబాద్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the VIKARABAD CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం వికారాబాద్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "62",
+          "Service Name": {
+              "en": "VIKARABAD SPOT CHALLAN PAYMENT",
+              "te": "వికారాబాద్ స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the VIKARABAD SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం వికారాబాద్ స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "63",
+          "Service Name": {
+              "en": "YADADRI CHALLAN PAYMENT",
+              "te": "యాదాద్రి ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the YADADRI CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం యాదాద్రి ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "64",
+          "Service Name": {
+              "en": "YADADRI SPOT CHALLAN PAYMENT",
+              "te": "యాదాద్రి స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the YADADRI SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం యాదాద్రి స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "65",
+          "Service Name": {
+              "en": "NIZAMABAD CHALLAN PAYMENT",
+              "te": "నిజామాబాద్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NIZAMABAD CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నిజామాబాద్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "66",
+          "Service Name": {
+              "en": "NIZAMABAD SPOT CHALLAN PAYMENT",
+              "te": "నిజామాబాద్ స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the NIZAMABAD SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం నిజామాబాద్ స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "67",
+          "Service Name": {
+              "en": "MANCHERIAL CHALLAN PAYMENT",
+              "te": "మంచిరియల్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MANCHERIAL CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మంచిరియల్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "68",
+          "Service Name": {
+              "en": "MANCHERIAL SPOT CHALLAN PAYMENT",
+              "te": "మంచిరియల్ స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the MANCHERIAL SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం మంచిరియల్ స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "69",
+          "Service Name": {
+              "en": "KAMAREDDY CHALLAN PAYMENT",
+              "te": "కామారెడ్డి ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the KAMAREDDY CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం కామారెడ్డి ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      },
+      {
+          "S.No": "70",
+          "Service Name": {
+              "en": "KAMAREDDY SPOT CHALLAN PAYMENT",
+              "te": "కామారెడ్డి స్పాట్ ఛాలన్ చెల్లింపు"
+          },
+          "Fee Value": {
+              "en": "5",
+              "te": "₹5"
+          },
+          "Timeline Value": {
+              "en": "NA",
+              "te": "NA"
+          },
+          "Description": {
+              "en": "The Objective of this service is to distribute the KAMAREDDY SPOT CHALLAN PAYMENT",
+              "te": "ఈ సేవ యొక్క ఉద్దేశ్యం కామారెడ్డి స్పాట్ ఛాలన్ చెల్లింపును పంపిణీ చేయడం"
+          },
+          "Service Delivery Channels": {
+              "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+              "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+          },
+          "Service Timings": {
+              "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+              "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7"
+          },
+          "Payment Modes": {
+              "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+              "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/సీచి/డెబిట్/పేటియం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+          }
+      }
+  ]

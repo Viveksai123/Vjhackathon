@@ -1,0 +1,281 @@
+[
+    {
+        "S.No": "1",
+        "Service Name": {
+            "en": "ONLINE SEVA POOJA BOOKING",
+            "te": "ఆన్‌లైన్ సేవ పూజా బుకింగ్"
+        },
+        "Fee Value": {
+            "en": "10",
+            "te": "₹10"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Purpose of Presenceless seva is to get the pre-booking for rooms to the citizen without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "ఆన్‌లైన్ సేవ పూజా యొక్క లక్ష్యం పౌరులు ఆలయానికి వెళ్లకుండా గదుల కోసం ముందస్తుగా బుక్ చేయడానికి సహాయపడటం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "2",
+        "Service Name": {
+            "en": "SRI BHADRAKALI TEMPLE SEVA BOOKING WARANGAL",
+            "te": "శ్రీ భద్రకాళి దేవాలయం సేవా బుకింగ్ వరంగల్"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI BHADRAKALI TEMPLE SEVA BOOKING WARANGAL is to get pre-booking for rooms to the citizen without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ భద్రకాళి దేవాలయం సేవా బుకింగ్ వరంగల్ లక్ష్యం ఆలయానికి వెళ్లకుండా సేవా గదుల కోసం ముందస్తు బుకింగ్ చేసుకోవడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "3",
+        "Service Name": {
+            "en": "SRI GNANA SARASWATI DEVASTHANAM ROOM BOOKING BASAR",
+            "te": "శ్రీ జ్ఞాన సరస్వతి దేవస్థానం గది బుకింగ్ బాసర్"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of Sri Gana Saraswathi Room Booking is to get pre-booking for rooms to the citizen without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ గణ సరస్వతి గది బుకింగ్ యొక్క లక్ష్యం ఆలయానికి వెళ్లకుండా గదుల కోసం ముందస్తు బుకింగ్ చేసుకోవడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "4",
+        "Service Name": {
+            "en": "SRI GNANA SARASWATI DEVASTHANAM SEVA BOOKING BASAR",
+            "te": "శ్రీ జ్ఞాన సరస్వతి దేవస్థానం సేవా బుకింగ్ బాసర్"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI GNANA SARASWATI DEVASTHANAM SEVA BOOKING BASAR is to allow citizens to book seva tickets without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ జ్ఞాన సరస్వతి దేవస్థానం సేవా బుకింగ్ లక్ష్యం ఆలయానికి వెళ్లకుండా సేవా టిక్కెట్లు బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "5",
+        "Service Name": {
+            "en": "SRI HANUMAN TEMPLE SEVA BOOKING KONDAGATTU",
+            "te": "శ్రీ హనుమాన్ దేవాలయం సేవా బుకింగ్ కొండగట్టు"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of Sri Hanuman Temple Kondagattu Seva Ticket Booking is to allow citizens to book seva tickets without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ హనుమాన్ దేవాలయం కొండగట్టు సేవా టిక్కెట్ల బుకింగ్ లక్ష్యం ఆలయానికి వెళ్లకుండా సేవా టిక్కెట్లు బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "6",
+        "Service Name": {
+            "en": "SRI PEDDAMMA TEMPLE SEVA BOOKING",
+            "te": "శ్రీ పెద్దమ్మ దేవాలయం సేవా బుకింగ్"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI PEDDAMMA TEMPLE SEVA BOOKING is to allow citizens to book seva tickets without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ పెద్దమ్మ దేవాలయం సేవా టిక్కెట్ల బుకింగ్ లక్ష్యం పౌరులు ఆలయానికి వెళ్లకుండా సేవా టిక్కెట్లు బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "7",
+        "Service Name": {
+            "en": "SRI RAJA RAJESHWARA TEMPLE ROOM BOOKING",
+            "te": "శ్రీ రాజ రాజేశ్వర దేవాలయం గది బుకింగ్"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI RAJA RAJESHWARA TEMPLE ROOM BOOKING is to allow citizens to pre-book rooms without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ రాజ రాజేశ్వర దేవాలయం గది బుకింగ్ లక్ష్యం పౌరులు ఆలయానికి వెళ్లకుండా గదులను ముందస్తుగా బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "8",
+        "Service Name": {
+            "en": "SRI RAJA RAJESHWARA TEMPLE SEVA BOOKING",
+            "te": "శ్రీ రాజ రాజేశ్వర దేవాలయం సేవా బుకింగ్"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI RAJA RAJESHWARA TEMPLE SEVA BOOKING is to allow citizens to book seva tickets without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ రాజ రాజేశ్వర దేవాలయం సేవా బుకింగ్ లక్ష్యం పౌరులు ఆలయానికి వెళ్లకుండా సేవా టిక్కెట్లు బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "9",
+        "Service Name": {
+            "en": "SRIN LAKSHMI NARASIMHA TEMPLE DHARMAPURI",
+            "te": "శ్రీ లక్ష్మి నరసింహ దేవాలయం ధర్మపురి"
+        },
+        "Fee Value": {
+            "en": "INR 5/-(Seva Amount less than Rs 100/-) INR 25/-(Seva Amount greater than Rs 100/-)",
+            "te": "INR 5/-(సేవా మొత్తం రూ.100/- కంటే తక్కువ) INR 25/-(సేవా మొత్తం రూ.100/- కంటే ఎక్కువ)"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The purpose of SRI LAKSHMI NARASIMHA TEMPLE DHARMAPURI Seva Ticket Booking is to allow citizens to book seva tickets without approaching the Temple. To avail this service, the citizen needs to approach Meeseva Franchise.",
+            "te": "శ్రీ లక్ష్మి నరసింహ దేవాలయం ధర్మపురి సేవా టిక్కెట్ల బుకింగ్ లక్ష్యం పౌరులు ఆలయానికి వెళ్లకుండా సేవా టిక్కెట్లు బుక్ చేయడం. ఈ సేవ పొందడానికి పౌరులు మీసేవ ఫ్రాంచైజీని సంప్రదించాలి."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp\nFranchisee Centres\nGovt Centers",
+            "te": "ఆన్‌లైన్: టాప్\nఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee: Cash/T-Wallet\nGovt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్/డెబిట్ కార్డు/పేటీఎం/టీ-వాలెట్\nఫ్రాంచైజీ: నగదు/టీ-వాలెట్\nప్రభుత్వ సెంటర్స్: నగదు/టీ-వాలెట్"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "S.No": "1",
+        "Service Name": {
+            "en": "AADHAAR AUTHENTICATION TO REGISTER FOR 20KL FREE WATER SCHEME",
+            "te": "20KL ఉచిత నీటి పథకానికి నమోదు కోసం ఆధార్ ప్రమాణీకరణ"
+        },
+        "Fee Value": {
+            "en": "0",
+            "te": "₹0"
+        },
+        "Timeline Value": {
+            "en": "NA",
+            "te": "NA"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the AADHAAR AUTHENTICATION TO REGISTER FOR 20KL FREE WATER SCHEME.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం 20KL ఉచిత నీటి పథకానికి నమోదు కోసం ఆధార్ ప్రమాణీకరణను అందించడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Franchisee Centres\nGovt Centers",
+            "te": "ఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Franchisee: 24 Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Govt Centers: Cash / Cheque / DD / Card Payments / T-Wallet\nFranchisee: Cash / Cheque / DD / Card Payments / T-Wallet",
+            "te": "ప్రభుత్వ సెంటర్స్: నగదు / చెక్ / డీడీ / కార్డ్ చెల్లింపులు / టీ-వాలెట్\nఫ్రాంచైజీ: నగదు / చెక్ / డీడీ / కార్డ్ చెల్లింపులు / టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "2",
+        "Service Name": {
+            "en": "COLLECTION OF WATER CHARGES",
+            "te": "నీటి ఛార్జీల సేకరణ"
+        },
+        "Fee Value": {
+            "en": "0",
+            "te": "₹0"
+        },
+        "Timeline Value": {
+            "en": "NA",
+            "te": "NA"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the COLLECTION OF WATER CHARGES.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం నీటి ఛార్జీల సేకరణను అందించడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Franchisee Centres\nGovt Centers",
+            "te": "ఫ్రాంచైజీ సెంటర్స్\nప్రభుత్వ సెంటర్స్"
+        },
+        "Service Timings": {
+            "en": "Franchisee: 24 Hours\nGovt Centres: 9:00AM to 7:00PM",
+            "te": "ఫ్రాంచైజీ: 24 గంటలు\nప్రభుత్వ సెంటర్స్: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Govt Centers: Cash / Cheque / DD / Card Payments / T-Wallet\nFranchisee: Cash / Cheque / DD / Card Payments / T-Wallet",
+            "te": "ప్రభుత్వ సెంటర్స్: నగదు / చెక్ / డీడీ / కార్డ్ చెల్లింపులు / టీ-వాలెట్\nఫ్రాంచైజీ: నగదు / చెక్ / డీడీ / కార్డ్ చెల్లింపులు / టీ-వాలెట్"
+        }
+    }
+]

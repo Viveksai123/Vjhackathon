@@ -1,0 +1,157 @@
+[
+    {
+        "S.No": "1",
+        "Service Name": {
+            "en": "BIRTH AND DEATH CERTIFICATE CDMA",
+            "te": "పుట్టిన మరియు మరణ ధృవపత్రం CDMA"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "3 Working Days",
+            "te": "3 పని దినాలు"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the Birth and Death Certificate CDMA",
+            "te": "ఈ సేవ యొక్క లక్ష్యం పుట్టిన మరియు మరణ ధృవపత్రం CDMA పంపిణీ చేయడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centres",
+            "te": "ఆన్‌లైన్: Tapp, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centres: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డ్/డెబిట్ కార్డ్/పేటీఎం/T-వాలెట్, ఫ్రాంచైజీ: నగదు/T-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/T-వాలెట్"
+        }
+    },
+    {
+        "S.No": "3",
+        "Service Name": {
+            "en": "CORRECTIONS IN DEATH CERTIFICATE CDMA",
+            "te": "మరణ ధృవపత్రంలో సవరణలు CDMA"
+        },
+        "Fee Value": {
+            "en": "45",
+            "te": "₹45"
+        },
+        "Timeline Value": {
+            "en": "3 Working Days",
+            "te": "3 పని దినాలు"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the corrections in Death Certificate CDMA",
+            "te": "ఈ సేవ యొక్క లక్ష్యం మరణ ధృవపత్రంలో సవరణలు CDMA పంపిణీ చేయడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centres",
+            "te": "ఆన్‌లైన్: Tapp, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centres: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డ్/డెబిట్ కార్డ్/పేటీఎం/T-వాలెట్, ఫ్రాంచైజీ: నగదు/T-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/T-వాలెట్"
+        }
+    },
+    {
+        "S.No": "4",
+        "Service Name": {
+            "en": "DMA PROPERTY TAX COLLECTION",
+            "te": "DMA ఆస్తి పన్ను సేకరణ"
+        },
+        "Fee Value": {
+            "en": "0",
+            "te": "₹0"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The objective of this service is to collect DMA Property Tax",
+            "te": "ఈ సేవ యొక్క లక్ష్యం DMA ఆస్తి పన్ను సేకరించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centres",
+            "te": "ఆన్‌లైన్: Tapp, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centres: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డ్/డెబిట్ కార్డ్/పేటీఎం/T-వాలెట్, ఫ్రాంచైజీ: నగదు/T-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/T-వాలెట్"
+        }
+    },
+    {
+        "S.No": "5",
+        "Service Name": {
+            "en": "NON AVAILABILITY BIRTH APPLICATION CDMA",
+            "te": "అనుపల్పత పుట్టిన ధృవపత్రం దరఖాస్తు CDMA"
+        },
+        "Fee Value": {
+            "en": "45",
+            "te": "₹45"
+        },
+        "Timeline Value": {
+            "en": "7 Working Days",
+            "te": "7 పని దినాలు"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the Non-Availability of Birth Application CDMA",
+            "te": "ఈ సేవ యొక్క లక్ష్యం అనుపల్పత పుట్టిన ధృవపత్రం CDMA పంపిణీ చేయడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centres",
+            "te": "ఆన్‌లైన్: Tapp, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centres: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డ్/డెబిట్ కార్డ్/పేటీఎం/T-వాలెట్, ఫ్రాంచైజీ: నగదు/T-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/T-వాలెట్"
+        }
+    },
+    {
+        "S.No": "6",
+        "Service Name": {
+            "en": "NON AVAILABILITY DEATH APPLICATION CDMA",
+            "te": "అనుపల్పత మరణ ధృవపత్రం దరఖాస్తు CDMA"
+        },
+        "Fee Value": {
+            "en": "45",
+            "te": "₹45"
+        },
+        "Timeline Value": {
+            "en": "7 Working Days",
+            "te": "7 పని దినాలు"
+        },
+        "Description": {
+            "en": "The objective of this service is to distribute the Non-Availability of Death Application CDMA",
+            "te": "ఈ సేవ యొక్క లక్ష్యం అనుపల్పత మరణ ధృవపత్రం CDMA పంపిణీ చేయడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centres",
+            "te": "ఆన్‌లైన్: Tapp, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centres: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డ్/డెబిట్ కార్డ్/పేటీఎం/T-వాలెట్, ఫ్రాంచైజీ: నగదు/T-వాలెట్, ప్రభుత్వ కేంద్రాలు"
+        }
+    }
+]
