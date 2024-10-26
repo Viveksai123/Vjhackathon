@@ -1,0 +1,60 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1c2533;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Navigation Bar */
+  .navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+    height: 70px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    position: relative;
+  }
+  
+  /* Individual nav items */
+  .nav-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: #333333;
+    font-size: 12px;
+    transition: all 0.3s ease;
+  }
+  
+  /* Active state for the selected nav item */
+  .nav-item.active {
+    background-color: #00bfff;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: -25px;
+  }
+  
+  /* Icon Styling */
+  .icon {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  /* Hover effect for inactive nav items */
+  .nav-item:hover {
+    color: #00bfff;
+  }
+  
+  

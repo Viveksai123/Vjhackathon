@@ -70,21 +70,21 @@ const FirstPage = () => {
 
       <button
         onClick={handleButtonClick5}
-        className="button bg-teal-500 text-white px-6 py-4 rounded hover:bg-teal-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
+        className="button bg-orange-500 text-white px-6 py-4 rounded hover:bg-orange-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
         <FaWater className="inline-block mr-2" size={36} /> Go to hmwssb
       </button>
 
       <button
         onClick={handleButtonClick6}
-        className="button bg-orange-500 text-white px-6 py-4 rounded hover:bg-orange-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
+        className="button bg-pink-500 text-white px-6 py-4 rounded hover:bg-pink-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
         <FaCity className="inline-block mr-2" size={36} /> Go to cmda
       </button>
 
       <button
         onClick={handleButtonClick7}
-        className="button bg-pink-500 text-white px-6 py-4 rounded hover:bg-pink-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
+        className="button bg-teal-500 text-white px-6 py-4 rounded hover:bg-teal-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
         <FaHandsHelping className="inline-block mr-2" size={36} /> Go to endowment
       </button>

@@ -1,17 +1,19 @@
 import React, { useState, useEffect } from 'react';
+import { FaSearch } from 'react-icons/fa';  // Importing Font Awesome icon
 import './Page.css';
 
 const PoliceSecondPage = () => {
   const [servicesData, setServicesData] = useState([]);
   const [selectedService, setSelectedService] = useState(null);
+  const [searchTerm, setSearchTerm] = useState(''); // State for search term
   const [error, setError] = useState('');
   const [language, setLanguage] = useState('en');
-  const [parallaxClass, setParallaxClass] = useState(''); // State to manage parallax effect
+  const [parallaxClass, setParallaxClass] = useState('');
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/Cmda.json');
+        const response = await fetch('/cmda.json');
         if (!response.ok) {
           throw new Error('Failed to fetch services data');
         }
@@ -24,7 +26,6 @@ const PoliceSecondPage = () => {
 
     fetchData();
 
-    // Listen for scroll events
     const handleScroll = () => {
       if (window.scrollY > 100) {
         setParallaxClass('parallax-left');
@@ -54,19 +55,45 @@ const PoliceSecondPage = () => {
     ));
   };
 
+  function checkBoxes() {
+    const triggerBottom = window.innerHeight / 5 * 4;
+    const rows = document.querySelectorAll('.fade-in-service');
+
+    rows.forEach((row) => {
+        const rowTop = row.getBoundingClientRect().top;
+
+        if (rowTop < triggerBottom) {
+            row.classList.add('show');
+        } else {
+            row.classList.remove('show');
+        }
+    });
+}
+
+window.addEventListener('scroll', checkBoxes);
+checkBoxes();
+
+  const handleSearch = (e) => {
+    setSearchTerm(e.target.value);
+  };
+
+  const filteredServices = servicesData.filter((service) =>
+    service["Service Name"][language].toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
   if (error) {
-    return <p className="text-red-500">{error}</p>;
+    return <p className="bg-pink-500">{error}</p>;
   }
 
   return (
     <div>
       <div className="nav">
-        <h1 className={`title ${parallaxClass} text-red-500`}>
+        <h1 className={`title ${parallaxClass} `} style={{fontFamily:"playfair display",color:"#EC4899"}}>
           {language === 'en' ? 'CMDA Services' : 'CMDA సేవలు'}
         </h1>
 
         <div className="language-selector">
-          <label className="language-label" style={{marginTop:"8px",fontWeight:"bold"}}>
+          <label className="language-label" style={{  fontWeight: "bold"}}>
             {language === 'en' ? 'Select Language:' : 'భాషను ఎంచుకోండి:'}
           </label>
           <select
@@ -81,9 +108,10 @@ const PoliceSecondPage = () => {
       </div>
 
       <div className="container">
+       
         {selectedService ? (
           <div className="service-details">
-            <h1 className="title6 text-red-500">
+            <h1 className="title " style={{color:"#EC4899"}}>
               {selectedService["Service Name"][language]}
             </h1>
             <table className="details-table">
@@ -115,38 +143,54 @@ const PoliceSecondPage = () => {
               </tbody>
             </table>
             <button
-              className="bg-orange-500 hover:bg-red-600 text-white py-2 px-4 rounded"
+              className="bg-pink-500 hover:bg-pink-600 text-white py-2 px-4 rounded"
               onClick={() => setSelectedService(null)}
             >
               {language === 'en' ? 'Back to List' : 'జాబితా వైపు తిరిగి'}
             </button>
           </div>
-        ) : (
+        ) : (<div> <div className="search-bar">
+          <FaSearch className="search-icon" /> 
+          <input
+            type="text"
+            value={searchTerm}
+            placeholder={language === 'en' ? 'Search Services...' : 'సేవలను వెతకండి...'}
+            onChange={handleSearch}
+            className="search-input"
+          />
+        </div>
+
           <table className="services-table">
-            <thead>
-              <tr>
-                <th>{language === 'en' ? 'S.No' : 'క్రమ సంఖ్య'}</th>
-                <th>{language === 'en' ? 'Service Name' : 'సేవ పేరు'}</th>
-                <th>{language === 'en' ? 'Actions' : 'చర్యలు'}</th>
-              </tr>
-            </thead>
-            <tbody>
-              {servicesData.map((service, index) => (
-                <tr key={index}>
-                  <td>{service["S.No"]}</td>
-                  <td>{service["Service Name"][language]}</td>
-                  <td>
-                    <button
-                      className="bg-orange-500 hover:bg-red-600 text-white py-2 px-4 rounded"
-                      onClick={() => handleServiceClick(service)}
-                    >
-                      {language === 'en' ? 'View Details' : 'వివరాలు చూడండి'}
-                    </button>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+            
+  <thead >
+    <tr >
+      <th style={{backgroundColor:"#EC4899"}}>{language === 'en' ? 'S.No' : 'క్రమ సంఖ్య'}</th>
+      <th style={{backgroundColor:"#EC4899"}}>{language === 'en' ? 'Service Name' : 'సేవ పేరు'}</th>
+      <th style={{backgroundColor:"#EC4899"}}>{language === 'en' ? 'Actions' : 'చర్యలు'}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {filteredServices.map((service, index) => (
+      <tr
+        key={index}
+        className={`fade-in-service ${index % 2 === 0 ? 'fade-in-right' : 'fade-in-left'}`}
+      >
+        <td>{service["S.No"]}</td>
+        <td>{service["Service Name"][language]}</td>
+        <td>
+          <button
+            className="bg-pink-500 hover:bg-pink-600 text-white py-2 px-4 rounded"
+            onClick={() => handleServiceClick(service)}
+          >
+            {language === 'en' ? 'View Details' : 'వివరాలు చూడండి'}
+          </button>
+        </td>
+      </tr>
+    ))}
+  </tbody>
+</table>
+</div>
+
         )}
       </div>
     </div>
