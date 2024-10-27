@@ -1,9 +1,13 @@
+// src/components/FirstPage.js
+
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useAuth0 } from '@auth0/auth0-react';
 import { FaShieldAlt, FaBolt, FaWallet, FaBuilding, FaWater, FaCity, FaHandsHelping, FaFileAlt } from 'react-icons/fa';
 
 const FirstPage = () => {
   const navigate = useNavigate();
+  const { user, isAuthenticated } = useAuth0();
 
   const handleButtonClick = () => {
     navigate('/second-page');
@@ -33,6 +37,14 @@ const FirstPage = () => {
 
   return (
     <div className="p-6 m-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {/* Display a welcome message if logged in, or a prompt if logged out */}
+      {isAuthenticated ? (
+        <h2>Welcome, {user.name}!</h2>
+      ) : (
+        <h2>Please log in to get personalized experience.</h2>
+      )}
+
+      {/* Buttons to navigate between pages */}
       <button
         onClick={handleButtonClick}
         className="button bg-blue-500 text-white px-6 py-4 rounded hover:bg-blue-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
@@ -65,7 +77,7 @@ const FirstPage = () => {
         onClick={handleButtonClick4}
         className="button bg-purple-500 text-white px-6 py-4 rounded hover:bg-purple-600 transition-all duration-500 transform hover:scale-105 hover:shadow-lg"
       >
-        <FaBuilding className="inline-block mr-2" size={36} /> Go to ghmc.json
+        <FaBuilding className="inline-block mr-2" size={36} /> Go to ghmc
       </button>
 
       <button
