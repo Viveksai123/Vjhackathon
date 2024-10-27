@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { FaSearch } from 'react-icons/fa';  // Importing Font Awesome icon
 import './Page.css';
 
-const PoliceSecondPage = () => {
+const CmdaSecondPage = () => {
   const [servicesData, setServicesData] = useState([]);
   const [selectedService, setSelectedService] = useState(null);
   const [searchTerm, setSearchTerm] = useState(''); // State for search term
@@ -197,4 +197,4 @@ checkBoxes();
   );
 };
 
-export default PoliceSecondPage;
+export default CmdaSecondPage;
