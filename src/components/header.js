@@ -19,7 +19,7 @@ const Header = ({ activeLanguage, changeLanguage }) => {
       {/* Flex Container for Header */}
       <div className="flex justify-between items-center w-full flex-wrap gap-4">
         {/* Title */}
-      <img src="./logo.jpg" alt="logo" className='img'/>
+      <img src="./logo1.jpg" alt="logo" className='img'/>
 
         {/* Language Selector */}
         <div className="flex items-center gap-2">

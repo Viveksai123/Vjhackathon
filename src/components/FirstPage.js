@@ -94,10 +94,10 @@ const FirstPage = () => {
           <FaHandsHelping className="inline mr-1" size={16} /> Documents |
         </a>
         <a href="#latest-news" className="text-sm font-semibold text-blue-600 hover:underline">
-          <FaComments className="inline mr-1" size={16} /> Latest News
+          <FaComments className="inline mr-1" size={16} /> Latest News |
         </a>
         <a href="#contact-us" className="text-sm font-semibold text-blue-600 hover:underline" onClick={() => navigate('/contact-us')}>
-  <FaPhone className="inline mr-1" size={16} /> Contact us
+  <FaPhone className="inline mr-1" size={16} /> Contact us |
 </a>
 <a href="#follow-us" className="text-sm font-semibold text-blue-600 hover:underline">
           <FaComments className="inline mr-1" size={16} /> Follow Us |
