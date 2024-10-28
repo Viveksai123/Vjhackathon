@@ -1,7 +1,8 @@
 // src/App.js
 
-import React, { useEffect, useState } from 'react';
-import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 import { useAuth0 } from '@auth0/auth0-react';
 import FirstPage from './components/FirstPage';
 import SecondPage from './components/SecondPage';
@@ -13,10 +14,14 @@ import EndowmentSecondPage from './components/EndowmentSecondPage';
 import CmdaSecondPage from './components/CmdaSecondPage';
 import PoliceSecondPage from './components/PoliceSecondPage';
 import ContactUs from './components/ContactUs';
+
+import axios from 'axios';
+
 import RegisterModal from './components/RegisterModal';
 
+
 function App() {
-  const { isAuthenticated, loginWithRedirect } = useAuth0();
+  const { isAuthenticated, loginWithRedirect, user } = useAuth0(); // Extract user from useAuth0()
   const [showModal, setShowModal] = useState(false);
   
   // Use location to check current route
@@ -33,6 +38,39 @@ function App() {
 
   // Determine if the Register button should be displayed
   const showRegisterButton = location.pathname === "/";
+
+  // Function to send user data to the server if not already present
+  const sendUserDataToServer = async (userData) => {
+    try {
+      // First, check if the user already exists on the server by querying the userid
+      const existingUser = await axios.get(
+        `https://json-production-4a9d.up.railway.app/records?userid=${userData.userid}`
+      );
+
+      // If the user does not exist (empty array), add the user data
+      if (existingUser.data.length === 0) {
+        const response = await axios.post('https://json-production-4a9d.up.railway.app/records', userData);
+        console.log('New user data sent successfully:', response.data);
+      } else {
+        console.log('User already exists, no need to send data.');
+      }
+    } catch (error) {
+      console.error('Error checking or sending user data:', error);
+    }
+  };
+
+  // Use Effect to send data after login
+  useEffect(() => {
+    if (isAuthenticated && user?.sub) {
+      const userData = {
+        userid: user.sub,
+        name: user.name, // username
+        email: user.email, // user email
+        picture: user.picture, // user profile picture URL, if available
+      };
+      sendUserDataToServer(userData);
+    }
+  }, [isAuthenticated, user]);
 
   return (
     <div className="p-4">
@@ -66,8 +104,16 @@ function App() {
         )}
       </div>
 
-      {/* Render Register Modal */}
-      <RegisterModal showModal={showModal} setShowModal={setShowModal} />
+
+        {/* Register Modal */}
+        <RegisterModal 
+          showModal={showModal} 
+          setShowModal={setShowModal} 
+          user={user} // Pass the user object directly
+        />
+
+     
+
 
       {/* Routes - all pages are accessible */}
       <Routes>
