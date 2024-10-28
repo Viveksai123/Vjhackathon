@@ -1,0 +1,2114 @@
+[
+    {
+      "S.No": "1",
+      "Service Name": {
+        "en": "ALTERATION OF VEHICLE OF REGISTRATION FEE PAYMENT",
+        "te": "వాహన నమోదులో మార్పు ఫీజు చెల్లింపు"
+      },
+      "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+      },
+      "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+      },
+      "Description": {
+        "en": "The Objective of this service is to distribute the ALTERATION OF VEHICLE OF REGISTRATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం వాహన నమోదులో మార్పు ఫీజు చెల్లింపును అందించడం"
+      },
+      "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+      },
+      "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+      },
+      "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+      }
+    },
+    {
+      "S.No": "2",
+      "Service Name": {
+        "en": "BADGE LICENSE FEE PAYMENT",
+        "te": "బాడ్జ్ లైసెన్స్ ఫీజు చెల్లింపు"
+      },
+      "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+      },
+      "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+      },
+      "Description": {
+        "en": "The Objective of this service is to distribute the BADGE LICENSE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం బాడ్జ్ లైసెన్స్ ఫీజు చెల్లింపును అందించడం"
+      },
+      "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+      },
+      "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+      },
+      "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+      }
+    },
+    {
+      "S.No": "3",
+      "Service Name": {
+        "en": "CANCELLATION OF NOC OF REGISTRATION FEE PAYMENT",
+        "te": "నోసీ రద్దు ఫీజు చెల్లింపు"
+      },
+      "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+      },
+      "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+      },
+      "Description": {
+        "en": "The Objective of this service is to distribute the CANCELLATION OF NOC OF REGISTRATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం నోసీ రద్దు ఫీజు చెల్లింపును అందించడం"
+      },
+      "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+      },
+      "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+      },
+      "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+      }
+    },
+    {
+      "S.No": "4",
+      "Service Name": {
+        "en": "CHANGE OF ADDRESS IN CONDUCTOR LICENCE FEE PAYMENT",
+        "te": "కండక్టర్ లైసెన్స్‌లో చిరునామా మార్పు ఫీజు చెల్లింపు"
+      },
+      "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+      },
+      "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+      },
+      "Description": {
+        "en": "The Objective of this service is to distribute the CHANGE OF ADDRESS IN CONDUCTOR LICENCE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం కండక్టర్ లైసెన్స్‌లో చిరునామా మార్పు ఫీజు చెల్లింపును అందించడం"
+      },
+      "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+      },
+      "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+      },
+      "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+      }
+    },
+    {
+      "S.No": "5",
+      "Service Name": {
+        "en": "CHANGE OF ADDRESS IN LICENSE FEE PAYMENT",
+        "te": "లైసెన్స్‌లో చిరునామా మార్పు ఫీజు చెల్లింపు"
+      },
+      "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+      },
+      "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+      },
+      "Description": {
+        "en": "The Objective of this service is to distribute the CHANGE OF ADDRESS IN LICENSE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం లైసెన్స్‌లో చిరునామా మార్పు ఫీజు చెల్లింపును అందించడం"
+      },
+      "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+      },
+      "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+      },
+      "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+      }
+    },
+    {
+        "S.No": "6",
+        "Service Name": {
+        "en": "CHANGE OF ADDRESS OF REGISTRATION FEE PAYMENT",
+        "te": "నమోదులో చిరునామా మార్పు ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the CHANGE OF ADDRESS OF REGISTRATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం నమోదులో చిరునామా మార్పు ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "7",
+        "Service Name": {
+        "en": "COLLECTION BILATERAL TAX FEE PAYMENT",
+        "te": "బైలాటరల్ పన్ను సేకరణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "5",
+        "te": "₹5"
+        },
+        "Timeline Value": {
+        "en": "NA",
+        "te": "అవర్తనం లేదు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the KOMARAM BHEEM ASIFABAD SPOT CHALLAN PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం కొమరం భీమ్ ఆసిఫాబాద్ స్పాట్ చలాన్ చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "8",
+        "Service Name": {
+        "en": "COLLECTION BILATERAL TAX FEE PAYMENT",
+        "te": "బైలాటరల్ పన్ను సేకరణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "NA",
+        "te": "అవర్తనం లేదు"
+        },
+        "Timeline Value": {
+        "en": "NA",
+        "te": "అవర్తనం లేదు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the COLLECTION BILATERAL TAX FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం బైలాటరల్ పన్ను సేకరణ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "9",
+        "Service Name": {
+        "en": "COLLECTION OF FEE FOR CORRECTION IN TEMPORARY REGISTRATION FEE PAYMENT",
+        "te": "తాత్కాలిక నమోదు సవరణ ఫీజు సేకరణ"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the COLLECTION OF FEE FOR CORRECTION IN TEMPORARY REGISTRATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం తాత్కాలిక నమోదు సవరణ ఫీజు సేకరణను అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "10",
+        "Service Name": {
+        "en": "COLLECTION OF GREEN TAX FEE PAYMENT",
+        "te": "హరిత పన్ను సేకరణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the COLLECTION OF GREEN TAX FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం హరిత పన్ను సేకరణ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "11",
+        "Service Name": {
+        "en": "COLLECTION OF QUARTERLY TAX FEE PAYMENT",
+        "te": "త్రైమాసిక పన్ను సేకరణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the COLLECTION OF QUARTERLY TAX FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం త్రైమాసిక పన్ను సేకరణ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "12",
+        "Service Name": {
+        "en": "COLLECTION ON VCRS FEE PAYMENT",
+        "te": "వీసీఆర్‌ఎస్ ఫీజు సేకరణ చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the COLLECTION ON VCRS FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం వీసీఆర్‌ఎస్ ఫీజు సేకరణ చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "13",
+        "Service Name": {
+        "en": "DL SLOT BOOKING",
+        "te": "డ్రైవింగ్ లైసెన్స్ స్లాట్ బుకింగ్"
+        },
+        "Fee Value": {
+        "en": "0",
+        "te": "₹0"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the DL SLOT BOOKING",
+        "te": "ఈ సేవ యొక్క లక్ష్యం డ్రైవింగ్ లైసెన్స్ స్లాట్ బుకింగ్ అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "14",
+        "Service Name": {
+        "en": "DRIVING LICENCE HISTORY SHEET FEE PAYMENT",
+        "te": "డ్రైవింగ్ లైసెన్స్ చరిత్ర షీట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the DRIVING LICENCE HISTORY SHEET FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం డ్రైవింగ్ లైసెన్స్ చరిత్ర షీట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "15",
+        "Service Name": {
+        "en": "DRIVING LICENCE TEST FOR EXPIRED DRIVING LICENCE FEE PAYMENT",
+        "te": "గడువు ముగిసిన డ్రైవింగ్ లైసెన్స్ పరీక్ష ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the DRIVING LICENCE TEST FOR EXPIRED DRIVING LICENCE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం గడువు ముగిసిన డ్రైవింగ్ లైసెన్స్ పరీక్ష ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "16",
+        "Service Name": {
+        "en": "DUPLICATE LICENSE FEE PAYMENT",
+        "te": "డూప్లికేట్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the DUPLICATE LICENSE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ లైసెన్స్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "17",
+        "Service Name": {
+        "en": "DUPLICATE OF REGISTRATION FEE PAYMENT",
+        "te": "నమోదు పత్రం డూప్లికేట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the DUPLICATE OF REGISTRATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ రెజిస్ట్రేషన్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "18",
+        "Service Name": {
+        "en": "HAZARDOUS LICENSE FEE PAYMENT",
+        "te": "హాజార్డస్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the HAZARDOUS LICENSE FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం హాజార్డస్ లైసెన్స్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "19",
+        "Service Name": {
+        "en": "HIRE PURCHASE AGREEMENT FEE PAYMENT",
+        "te": "హైర్ పర్చేజ్ అగ్రిమెంట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the HIRE PURCHASE AGREEMENT FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం హైర్ పర్చేజ్ అగ్రిమెంట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "20",
+        "Service Name": {
+        "en": "HIRE PURCHASE TERMINATION FEE PAYMENT",
+        "te": "హైర్ పర్చేజ్ టర్మినేషన్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+        "en": "35",
+        "te": "₹35"
+        },
+        "Timeline Value": {
+        "en": "15 Min",
+        "te": "15 నిమిషాలు"
+        },
+        "Description": {
+        "en": "The Objective of this service is to distribute the HIRE PURCHASE TERMINATION FEE PAYMENT",
+        "te": "ఈ సేవ యొక్క లక్ష్యం హైర్ పర్చేజ్ టర్మినేషన్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+        "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+        "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+        "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+        "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+        "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+        "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 21,
+        "Service Name": {
+            "en": "INTERNATIONAL DRIVING PERMIT FEE PAYMENT",
+            "te": "ఇంటర్నేషనల్ డ్రైవింగ్ పర్మిట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the INTERNATIONAL DRIVING PERMIT FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఇంటర్నేషనల్ డ్రైవింగ్ పర్మిట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 22,
+        "Service Name": {
+            "en": "ISSUE DUPLICATE LEARNER LICENCE FEE PAYMENT",
+            "te": "డూప్లికేట్ లర్నర్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE DUPLICATE LEARNER LICENCE FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ లర్నర్ లైసెన్స్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 23,
+        "Service Name": {
+            "en": "ISSUE OF B-REGISTER FEE PAYMENT",
+            "te": "బి-రెజిస్టర్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF B-REGISTER FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం బి-రెజిస్టర్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 24,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE AUTHORISATION FOR NATIONAL PERMIT FEE PAYMENT",
+            "te": "నేషనల్ పర్మిట్ కోసం డూప్లికేట్ అథారైజేషన్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE AUTHORISATION FOR NATIONAL PERMIT FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం నేషనల్ పర్మిట్ కోసం డూప్లికేట్ అథారైజేషన్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 25,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE CONDUCTOR LICENCE FEE PAYMENT",
+            "te": "డూప్లికేట్ కండక్టర్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE CONDUCTOR LICENCE FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ కండక్టర్ లైసెన్స్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 26,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE FITNESS CERTIFICATE FEE PAYMENT",
+            "te": "డూప్లికేట్ ఫిట్నెస్ సర్టిఫికేట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE FITNESS CERTIFICATE FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ ఫిట్నెస్ సర్టిఫికేట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 27,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE PERMIT FEE PAYMENT",
+            "te": "డూప్లికేట్ పర్మిట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE PERMIT FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ పర్మిట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 28,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE RECOMMENDATION LETTER FEE PAYMENT",
+            "te": "డూప్లికేట్ సిఫారసు పత్రం ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE RECOMMENDATION LETTER FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ సిఫారసు పత్రం ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 29,
+        "Service Name": {
+            "en": "ISSUE OF DUPLICATE TRADE CERTIFICATE FEE PAYMENT",
+            "te": "డూప్లికేట్ ట్రేడ్ సర్టిఫికేట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF DUPLICATE TRADE CERTIFICATE FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డూప్లికేట్ ట్రేడ్ సర్టిఫికేట్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": 30,
+        "Service Name": {
+            "en": "ISSUE OF FRESH AUTHORISATION OF DEALER FEE PAYMENT",
+            "te": "డీలర్ యొక్క తాజా అథారైజేషన్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF FRESH AUTHORISATION OF DEALER FEE PAYMENT",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డీలర్ యొక్క తాజా అథారైజేషన్ ఫీజు చెల్లింపును అందించడం"
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్:టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9 నుండి సాయంత్రం 7 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking/CC/DC/Paytm/T-Wallet, Franchisee: Cash/T-Wallet, Govt Centers: Cash/T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్/క్రెడిట్ కార్డు/డెబిట్ కార్డు/పేటీఎం/టి-వాలెట్, ఫ్రాంచైజీ: నగదు/టి-వాలెట్, ప్రభుత్వ కేంద్రాలు: నగదు/టి-వాలెట్"
+        }
+    },
+    {
+        "S.No": "31",
+        "Service Name": {
+            "en": "ISSUE OF FRESH CONDUCTOR LICENCE FEE PAYMENT",
+            "te": "కొత్త కండక్టర్ లైసెన్స్ ఫీజు చెల్లింపు ఇవ్వడం"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF FRESH CONDUCTOR LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త కండక్టర్ లైసెన్స్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "32",
+        "Service Name": {
+            "en": "ISSUE OF FRESH REGISTRATION CERTIFICATE IN THE NAME OF FINANCIER FEE PAYMENT",
+            "te": "ఆర్థికమా పేరున కొత్త నమోదు సర్టిఫికేట్ ఫీజు చెల్లింపు ఇవ్వడం"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF FRESH REGISTRATION CERTIFICATE IN THE NAME OF FINANCIER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఆర్థికమా పేరున కొత్త నమోదు సర్టిఫికేట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "33",
+        "Service Name": {
+            "en": "ISSUE OF NEW FITNESS CERTIFICATE FEE PAYMENT",
+            "te": "కొత్త ఫిట్‌నెస్ సర్టిఫికేట్ ఫీజు చెల్లింపు ఇవ్వడం"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF NEW FITNESS CERTIFICATE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త ఫిట్‌నెస్ సర్టిఫికేట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "34",
+        "Service Name": {
+            "en": "ISSUE OF NEW PERMIT FEE PAYMENT",
+            "te": "కొత్త పర్మిట్ ఫీజు చెల్లింపు ఇవ్వడం"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF NEW PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త పర్మిట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "35",
+        "Service Name": {
+            "en": "ISSUE OF NEW RECOMMENDATION LETTER FEE PAYMENT",
+            "te": "కొత్త సిఫారసు లేఖ ఫీజు చెల్లింపు ఇవ్వడం"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF NEW RECOMMENDATION LETTER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త సిఫారసు లేఖ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "36",
+        "Service Name": {
+            "en": "ISSUE OF NEW TRADE CERTIFICATE FEE PAYMENT",
+            "te": "కొత్త వ్యాపార సర్టిఫికేట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF NEW TRADE CERTIFICATE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త వ్యాపార సర్టిఫికేట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "37",
+        "Service Name": {
+            "en": "ISSUE OF NOC OF REGISTRATION FEE PAYMENT",
+            "te": "నమోదు యొక్క NOC ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the ISSUE OF NOC OF REGISTRATION FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం నమోదుకు NOC ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "38",
+        "Service Name": {
+            "en": "LEARNER LICENCE FOR ADDITION OF A NEW CLASS OF VEHICLE FEE PAYMENT",
+            "te": "కొత్త వాహన తరగతి కోసం లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the LEARNER LICENCE FOR ADDITION OF A NEW CLASS OF VEHICLE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త వాహన తరగతి కోసం లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "39",
+        "Service Name": {
+            "en": "LEARNER LICENCE FOR EXPIRED DRIVING LICENCE FEE PAYMENT",
+            "te": "చెల్లిన డ్రైవింగ్ లైసెన్స్ కోసం లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the LEARNER LICENCE FOR EXPIRED DRIVING LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం చెల్లిన డ్రైవింగ్ లైసెన్స్ కోసం లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "40",
+        "Service Name": {
+            "en": "LLR SLOT BOOKING",
+            "te": "LLR స్లాట్ బుకింగ్"
+        },
+        "Fee Value": {
+            "en": "0",
+            "te": "₹0"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the LLR SLOT BOOKING.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం LLR స్లాట్ బుకింగ్‌ను పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "41",
+        "Service Name": {
+            "en": "NEW LEARNER LICENCE IN PLACE OF EXPIRED LEARNER LICENCE FEE PAYMENT",
+            "te": "చెల్లిన లెర్నర్ లైసెన్స్‌కు బదులుగా కొత్త లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the NEW LEARNER LICENCE IN PLACE OF EXPIRED LEARNER LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం చెల్లిన లెర్నర్ లైసెన్స్‌కు బదులుగా కొత్త లెర్నర్ లైసెన్స్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "42",
+        "Service Name": {
+            "en": "PERMISSION TO GET FITNESS CERTIFICATE AT OTHER STATION FEE PAYMENT",
+            "te": "ఇతర స్టేషన్‌లో ఫిట్‌నెస్ సర్టిఫికేట్ పొందడానికి అనుమతి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the PERMISSION TO GET FITNESS CERTIFICATE AT OTHER STATION FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఇతర స్టేషన్‌లో ఫిట్‌నెస్ సర్టిఫికేట్ పొందడానికి అనుమతి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "43",
+        "Service Name": {
+            "en": "REASSIGNMENT OF VEHICLE FEE PAYMENT",
+            "te": "వాహన పునర్వనరాయింపు ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the REASSIGNMENT OF VEHICLE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం వాహన పునర్వనరాయింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online:Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "44",
+        "Service Name": {
+            "en": "REG FRESH REGISTRATION FEE PAYMENT",
+            "te": "కొత్త నమోదుకు ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the REG FRESH REGISTRATION FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త నమోదుకు ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "45",
+        "Service Name": {
+            "en": "RENEWAL OF AUTHORISATION FOR NATIONAL PERMIT FEE PAYMENT",
+            "te": "జాతీయ అనుమతికి అనుమతి పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF AUTHORISATION FOR NATIONAL PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం జాతీయ అనుమతికి అనుమతి పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "46",
+        "Service Name": {
+            "en": "RENEWAL OF AUTHORISATION OF DEALER FEE PAYMENT",
+            "te": "డీలర్ అనుమతిని పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF AUTHORISATION OF DEALER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డీలర్ అనుమతిని పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "47",
+        "Service Name": {
+            "en": "RENEWAL OF CONDUCTOR LICENCE FEE PAYMENT",
+            "te": "కండక్టర్ లైసెన్స్ పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF CONDUCTOR LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కండక్టర్ లైసెన్స్ పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "48",
+        "Service Name": {
+            "en": "RENEWAL OF FITNESS CERTIFICATE FEE PAYMENT",
+            "te": "ఫిట్‌నెస్ సర్టిఫికేట్ పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF FITNESS CERTIFICATE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఫిట్‌నెస్ సర్టిఫికేట్ పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "49",
+        "Service Name": {
+            "en": "RENEWAL OF LICENSE FEE PAYMENT",
+            "te": "లైసెన్స్ పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF LICENSE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం లైసెన్స్ పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "50",
+        "Service Name": {
+            "en": "RENEWAL OF PERMIT FEE PAYMENT",
+            "te": "అనుమతిని పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం అనుమతిని పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "51",
+        "Service Name": {
+            "en": "RENEWAL OF RECOMMENDATION LETTER FEE PAYMENT",
+            "te": "ఓర్పు పత్రాన్ని పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF RECOMMENDATION LETTER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఓర్పు పత్రాన్ని పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "52",
+        "Service Name": {
+            "en": "RENEWAL OF REGISTRATION FEE PAYMENT",
+            "te": "నమోదును పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF REGISTRATION FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం నమోదును పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "53",
+        "Service Name": {
+            "en": "RENEWAL OF TRADE CERTIFICATE FEE PAYMENT",
+            "te": "వాణిజ్య సర్టిఫికేట్ పునరావృతం చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RENEWAL OF TRADE CERTIFICATE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం వాణిజ్య సర్టిఫికేట్ పునరావృతం చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "54",
+        "Service Name": {
+            "en": "REPLACEMENT OF PERMIT FEE PAYMENT",
+            "te": "అనుమతిని మార్పు చేయడానికి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the REPLACEMENT OF PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం అనుమతిని మార్పు చేయడానికి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "55",
+        "Service Name": {
+            "en": "RETEST FOR DRIVING LICENCE FEE PAYMENT",
+            "te": "డ్రైవింగ్ లైసెన్స్ రీటెస్ట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RETEST FOR DRIVING LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డ్రైవింగ్ లైసెన్స్ రీటెస్ట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచైజీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "56",
+        "Service Name": {
+            "en": "RETEST FOR LEARNER LICENCE FEE PAYMENT",
+            "te": "లెర్నర్ లైసెన్స్ రీటెస్ట్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RETEST FOR LEARNER LICENCE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం లెర్నర్ లైసెన్స్ రీటెస్ట్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "57",
+        "Service Name": {
+            "en": "RTA DL FEE PAYMENT",
+            "te": "ఆర్‌టీ‌ఏ డి‌ఎల్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RTA DL FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఆర్‌టీ‌ఏ డి‌ఎల్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "58",
+        "Service Name": {
+            "en": "RTA FORM PRINTING",
+            "te": "ఆర్‌టీ‌ఏ ఫారం ముద్రణ"
+        },
+        "Fee Value": {
+            "en": "NA",
+            "te": "NA"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RTA FORM PRINTING.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఆర్‌టీ‌ఏ ఫారం ముద్రణను పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "NA",
+            "te": "NA"
+        }
+    },
+    {
+        "S.No": "59",
+        "Service Name": {
+            "en": "RTA GREEN TAX FEE PAYMENT",
+            "te": "ఆర్‌టి‌ఎ గ్రీన్ టాక్స్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "5",
+            "te": "₹5"
+        },
+        "Timeline Value": {
+            "en": "NA",
+            "te": "NA"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the KOMARAM BHEEM ASIFABAD CHALLAN PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కోమరం భీమ అసిఫాబాద్ చలాన్ చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "60",
+        "Service Name": {
+            "en": "RTA LIFE TAX PAYMENT",
+            "te": "ఆర్‌టీ‌ఏ లైఫ్ టాక్స్ చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "0",
+            "te": "₹0"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the New Vehicle Life Tax.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం కొత్త వాహనాల లైఫ్ టాక్స్ పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "61",
+        "Service Name": {
+            "en": "RTA LL FEE PAYMENT",
+            "te": "ఆర్‌టీ‌ఏ ఎల్‌ఎల్ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "100",
+            "te": "₹100"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the RTA LL FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం ఆర్‌టీ‌ఏ ఎల్‌ఎల్ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "62",
+        "Service Name": {
+            "en": "RTA VEHICLE TAX COLLECTION",
+            "te": "ఆర్‌టిఏ వాహనం పన్ను సేకరణ"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the Vehicle Qtly Tax.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం వాహన త్రైమాసిక పన్నును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "63",
+        "Service Name": {
+            "en": "SURRENDER OF LICENSE FEE PAYMENT",
+            "te": "లైసెన్సు పునఃసమర్పణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the SURRENDER OF LICENSE FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం లైసెన్సు పునఃసమర్పణ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "64",
+        "Service Name": {
+            "en": "SURRENDER OF PERMIT FEE PAYMENT",
+            "te": "పర్మిట్ పునఃసమర్పణ ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the SURRENDER OF PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం పర్మిట్ పునఃసమర్పణ ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "65",
+        "Service Name": {
+            "en": "TRANSFER OF OWNERSHIP FEE PAYMENT",
+            "te": "మాలిక స్థానం మార్పిడి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the TRANSFER OF OWNERSHIP FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం మాలిక స్థానం మార్పిడి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "66",
+        "Service Name": {
+            "en": "TRANSFER OF PERMIT FEE PAYMENT",
+            "te": "పర్మిట్ స్థానం మార్పిడి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the TRANSFER OF PERMIT FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం పర్మిట్ స్థానం మార్పిడి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "67",
+        "Service Name": {
+            "en": "TRANSFER OF RECOMMENDATION LETTER FEE PAYMENT",
+            "te": "సిఫార్సు పత్రం మార్పిడి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the TRANSFER OF RECOMMENDATION LETTER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం సిఫార్సు పత్రం మార్పిడి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    },
+    {
+        "S.No": "68",
+        "Service Name": {
+            "en": "VARIATION OF AUTHORIZATION OF DEALER FEE PAYMENT",
+            "te": "డీలర్ అధికారం మార్పిడి ఫీజు చెల్లింపు"
+        },
+        "Fee Value": {
+            "en": "35",
+            "te": "₹35"
+        },
+        "Timeline Value": {
+            "en": "15 Min",
+            "te": "15 నిమిషాలు"
+        },
+        "Description": {
+            "en": "The Objective of this service is to distribute the VARIATION OF AUTHORIZATION OF DEALER FEE PAYMENT.",
+            "te": "ఈ సేవ యొక్క లక్ష్యం డీలర్ అధికారం మార్పిడి ఫీజు చెల్లింపును పంపిణీ చేయడం."
+        },
+        "Service Delivery Channels": {
+            "en": "Online: Tapp, Franchisee Centres, Govt Centers",
+            "te": "ఆన్‌లైన్: టాప్, ఫ్రాంచైజీ కేంద్రాలు, ప్రభుత్వ కేంద్రాలు"
+        },
+        "Service Timings": {
+            "en": "Online Franchisee: 24 Hours, Govt Centres: 9:00 AM to 7:00 PM",
+            "te": "ఆన్‌లైన్ ఫ్రాంచైజీ: 24 గంటలు, ప్రభుత్వ కేంద్రాలు: ఉదయం 9:00 నుండి సాయంత్రం 7:00 వరకు"
+        },
+        "Payment Modes": {
+            "en": "Online: Net Banking, CC, DC, Paytm, T-Wallet; Franchisee: Cash, T-Wallet; Govt Centers: Cash, T-Wallet",
+            "te": "ఆన్‌లైన్: నెట్ బ్యాంకింగ్, క్రెడిట్ కార్డు, డెబిట్ కార్డు, పేటీఎం, టీ-వాలెట్; ఫ్రాంచీ: నగదు, టీ-వాలెట్; ప్రభుత్వ కేంద్రాలు: నగదు, టీ-వాలెట్"
+        }
+    }
+]
+
+
+
+        

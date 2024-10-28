@@ -1,0 +1,26 @@
+[
+    {
+        "S.No": 1,
+        "Service Name": "ALTERATION OF VEHICLE OF REGISTRATION FEE PAYMENT",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "15 Min",
+        "Description": "The Objective of this service is to distribute the ALTERATION OF VEHICLE OF REGISTRATION FEE PAYMENT",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 2,
+        "Service Name": "BADGE LICENSE FEE PAYMENT",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "15 Min",
+        "Description": "The Objective of this service is to distribute the BADGE LICENSE FEE PAYMENT",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    }
+]
