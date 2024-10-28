@@ -1,33 +1,99 @@
 // src/components/RegisterModal.js
 
 import React, { useState } from 'react';
+import axios from 'axios';
 
-function RegisterModal({ showModal, setShowModal }) {
+// Utility function to generate a random hash-like string
+const generateTransactionId = () =>
+  Math.random().toString(36).substring(2) + Date.now().toString(36);
+
+// Utility function to generate a random block number between 1 and 10
+const generateBlockNumber = () => Math.floor(Math.random() * 10) + 1;
+
+// Utility function to get the current timestamp
+const getCurrentTimestamp = () => new Date().toISOString();
+
+function RegisterModal({ showModal, setShowModal, user }) {
   const [selectedFile, setSelectedFile] = useState(null);
 
+  // Handle file selection
   const handleFileChange = (e) => {
-    setSelectedFile(e.target.files[0]);
+    setSelectedFile(e.target.files[0]); // Store the selected file
   };
 
-  const handleUpload = async () => {
-    if (!selectedFile) return;
+  // Handle file upload and update user data
+  const handleUpload = async (e) => {
+    e.preventDefault();
 
-    const formData = new FormData();
-    formData.append('file', selectedFile);
+    if (!selectedFile) {
+      console.log("No file selected.");
+      return;
+    }
+
+    if (!user || !user.sub) {
+      console.error("User or user.sub is not available.");
+      return;
+    }
 
     try {
-      await fetch('http://localhost:3000/files', { // Replace with your JSON server endpoint
-        method: 'POST',
-        body: formData,
-      });
-      alert('File uploaded successfully');
+      // Prepare the form data for the file upload
+      const formData = new FormData();
+      formData.append('file', selectedFile);
+
+      // Step 1: Send the file to the extraction endpoint
+      const extractResponse = await axios.post(
+        'http://127.0.0.1:8000/extract/',
+        formData,
+        { headers: { 'Content-Type': 'multipart/form-data' } }
+      );
+
+      const newData = extractResponse.data;
+      console.log("Extract Response:", newData);
+
+      // Step 2: Fetch the user's existing record
+      const recordsResponse = await axios.get(
+        'https://json-production-4a9d.up.railway.app/records'
+      );
+
+      const records = recordsResponse.data;
+      console.log("Fetched Records:", records);
+
+      // Step 3: Find the user record with matching userid
+      const userRecord = records.find((record) => record.userid === user.sub);
+
+      if (!userRecord) {
+        console.error("No matching user found in records.");
+        return;
+      }
+
+      // Step 4: Merge existing data with new data and add custom fields
+      const updatedData = {
+        ...userRecord,  // Keep all existing fields
+        ...newData,     // Add/overwrite fields from the extracted data
+        transactionId: generateTransactionId(), // Add random transaction ID
+        blocknumber: generateBlockNumber(),     // Add random block number
+        timestamp: getCurrentTimestamp()        // Add current timestamp
+      };
+
+      console.log("Merged Data with Extra Fields:", updatedData);
+
+      // Step 5: Send a PUT request to update the user's record
+      const putResponse = await axios.put(
+        `https://json-production-4a9d.up.railway.app/records/${userRecord.id}`,
+        updatedData, // Send the merged data with extra fields
+        { headers: { 'Content-Type': 'application/json' } }
+      );
+
+      console.log("PUT Response:", putResponse.data);
+
+      // Step 6: Close the modal after a successful operation
       setShowModal(false);
-      setSelectedFile(null);
     } catch (error) {
-      console.error('Error uploading file:', error);
+      console.error("Error during upload or PUT request:", error);
     }
   };
 
+  // Render the modal only if it is visible
   if (!showModal) return null;
 
   return (
