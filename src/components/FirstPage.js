@@ -37,9 +37,9 @@ const FirstPage = () => {
     { label: "Go to TGSPDC", icon: FaBolt, route: '/tgspdcsecond-page', gradient: "from-yellow-500 to-yellow-700" },
     { label: "Go to T-Wallet", icon: FaWallet, route: '/twalletsecond-page', gradient: "from-green-500 to-green-700" },
     { label: "Go to GHMC", icon: FaCity, route: '/ghmcsecond-page', gradient: "from-indigo-500 to-indigo-700" },
-    { label: "Go to HMWSSB", icon: FaWater, route: '/hmwssbsecond-page', gradient: "from-teal-500 to-teal-700" },
-    { label: "Go to CMDA", icon: FaBuilding, route: '/cmdasecond-page', gradient: "from-purple-500 to-purple-700" },
-    { label: "Go to Endowments", icon: FaHandsHelping, route: '/endowmentsecond-page', gradient: "from-pink-500 to-pink-700" },
+    { label: "Go to HMWSSB", icon: FaWater, route: '/hmwssbsecond-page', gradient: "from-orange-500 to-orange-700" },
+    { label: "Go to CMDA", icon: FaBuilding, route: '/cmdasecond-page', gradient: "from-pink-500 to-pink-700" },
+    { label: "Go to Endowments", icon: FaHandsHelping, route: '/endowmentsecond-page', gradient: "from-teal-500 to-teal-700" },
   ];
 
   const toggleChat = () => setIsChatOpen(!isChatOpen);
@@ -68,22 +68,25 @@ const FirstPage = () => {
     <div className="flex flex-col min-h-screen">
       <div className="overflow-hidden relative">
         <div className="flex animate-scroll">
-          <img src="https://via.placeholder.com/300" alt="A scenic view of nature" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A beautiful city skyline" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A stunning sunset over the ocean" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A tranquil forest path" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A scenic view of nature" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A beautiful city skyline" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A stunning sunset over the ocean" className="w-1/4 object-cover scroll-image" />
-          <img src="https://via.placeholder.com/300" alt="A tranquil forest path" className="w-1/4 object-cover scroll-image" />
+          <img src="./6.jpg" alt="A scenic view of nature" className="w-1/3 object-cover scroll-image" />
+          <img src="./2.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-cover scroll-image" />
+          <img src="./1.jpg" alt="A tranquil forest path" className="w-1/3 object-cover scroll-image" />
+          <img src="./4.jpg" alt="A scenic view of nature" className="w-1/3 object-cover scroll-image" />
+          <img src="./5.jpg" alt="A beautiful city skyline" className="w-1/3 object-cover scroll-image" />
+          <img src="./6.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-cover scroll-image" />
+         
         </div>
       </div>
 
       <div className="flex-grow p-6 mx-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        <div className="col-span-full text-center mb-8">
-          <h2 className="text-3xl font-semibold text-gray-800">
-            {isAuthenticated ? `Welcome, ${user.name}!` : 'Please log in for a personalized experience.'}
-          </h2>
+        <div className="col-span-full text-center mb-1">
+        <h2 className={`text-3xl font-semibold text-transparent bg-clip-text 
+                bg-gradient-to-r from-blue-500 to-teal-400 
+                ${isAuthenticated ? 'animate-fadeIn' : 'animate-pulse'}
+                drop-shadow-lg`}>
+  {isAuthenticated ? `Welcome, ${user.name}!` : 'Please log in for a personalized experience.'}
+</h2>
+
         </div>
 
         {navigationButtons.map((button, index) => (
@@ -223,7 +226,7 @@ const FirstPage = () => {
               <div>
                 <h4 className="text-lg font-semibold text-gray-800">Social Welfare Scheme</h4>
                 <p className="text-gray-500 text-sm">Join our social welfare program for eligible citizens.</p>
-                <button className="mt-4 bg-gradient-to-r from-blue-600 to-blue-400 text-white px-4 py-2 rounded-lg shadow-md hover:from-blue-700 hover:to-blue-500 transform transition-all duration-300">
+                <button className="mt-4 bg-gradient-to-r from-green-600 to-green-400 text-white px-4 py-2 rounded-lg shadow-md hover:from-green-700 hover:to-green-500 transform transition-all duration-300">
                   Apply Now
                 </button>
               </div>
