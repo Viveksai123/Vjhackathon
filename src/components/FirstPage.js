@@ -109,15 +109,13 @@ const FirstPage = () => {
      
     </div>
      <div className="overflow-hidden relative" id="documents">
-    
-<div className="flex animate-scroll z-0 relative">
-  <img src="./6.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
-  <img src="./1.jpg" alt="A tranquil forest path" className="w-1/3 object-contain scroll-image" />
-  <img src="./4.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
-  <img src="./5.jpg" alt="A beautiful city skyline" className="w-1/3 object-contain scroll-image" />
-  <img src="./6.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-contain scroll-image" />
-</div>
-
+  <div className="flex animate-scroll">
+    <img src="./6.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
+    <img src="./1.jpg" alt="A tranquil forest path" className="w-1/3 object-contain scroll-image" />
+    <img src="./4.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
+    <img src="./5.jpg" alt="A beautiful city skyline" className="w-1/3 object-contain scroll-image" />
+    <img src="./6.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-contain scroll-image" />
+  </div>
 </div>
 
 
