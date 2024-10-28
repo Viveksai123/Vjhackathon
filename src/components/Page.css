@@ -487,3 +487,10 @@ button:hover {
 .overflow-hidden {
   width: calc(100% + 20px); /* To account for the margin */
 }
+.marginTop{
+  margin-top: -5vh;
+}
+.img{
+  height: 60px;
+  width: 150px;
+}

@@ -1,14 +1,17 @@
 // src/components/FirstPage.js
-
+import Header from "./header";
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
 import {
   FaShieldAlt, FaBolt, FaWallet, FaBuilding, FaWater,
   FaCity, FaHandsHelping, FaFileAlt, FaComments, FaTimes,
-  FaCheckCircle, FaTimesCircle,FaFacebook,FaTwitter,FaInstagram,FaLinkedin,FaUser    
+  FaCheckCircle, FaTimesCircle,FaFacebook,FaTwitter,FaInstagram,FaLinkedin,FaUser,    
+  FaHome,
+  FaPhone
 } from 'react-icons/fa';
 import './Page.css';
+
 
 const FirstPage = () => {
   const navigate = useNavigate();
@@ -30,6 +33,11 @@ const FirstPage = () => {
   ];
 
   // Document Verification Section
+  const [activeLanguage, setActiveLanguage] = useState("EN");
+  // Function to handle language change
+  const changeLanguage = (language) => {
+    setActiveLanguage(language);
+  };
 
   const navigationButtons = [
     { label: "Go to RTA", icon: FaFileAlt, route: '/second-page', gradient: "from-blue-500 to-blue-700" },
@@ -66,41 +74,72 @@ const FirstPage = () => {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <div className="overflow-hidden relative">
-        <div className="flex animate-scroll">
-          <img src="./6.jpg" alt="A scenic view of nature" className="w-1/3 object-cover scroll-image" />
-          <img src="./2.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-cover scroll-image" />
-          <img src="./1.jpg" alt="A tranquil forest path" className="w-1/3 object-cover scroll-image" />
-          <img src="./4.jpg" alt="A scenic view of nature" className="w-1/3 object-cover scroll-image" />
-          <img src="./5.jpg" alt="A beautiful city skyline" className="w-1/3 object-cover scroll-image" />
-          <img src="./6.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-cover scroll-image" />
-         
-        </div>
+       <div >
+      {isAuthenticated && <Header activeLanguage={activeLanguage} changeLanguage={changeLanguage} />}
+      
+      {/* Anchor Links Section */}
+      <div className="bg-gray-200 p-4 text-center space-x-4 flex justify-center items-center">
+      <a href="#home" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaHome className="inline mr-1" size={16} /> Home | 
+        </a>
+        <a href="#services" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaBolt className="inline mr-1" size={16} /> Services | 
+        </a>
+       
+        <a href="#application-status" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaFileAlt className="inline mr-1" size={16} /> Application Status |
+        </a>
+        <a href="#documents" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaHandsHelping className="inline mr-1" size={16} /> Documents |
+        </a>
+        <a href="#latest-news" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaComments className="inline mr-1" size={16} /> Latest News
+        </a>
+        <a href="#contact-us" className="text-sm font-semibold text-blue-600 hover:underline" onClick={() => navigate('/contact-us')}>
+  <FaPhone className="inline mr-1" size={16} /> Contact us
+</a>
+<a href="#follow-us" className="text-sm font-semibold text-blue-600 hover:underline">
+          <FaComments className="inline mr-1" size={16} /> Follow Us |
+        </a>
       </div>
 
-      <div className="flex-grow p-6 mx-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        <div className="col-span-full text-center mb-1">
-        <h2 className={`text-3xl font-semibold text-transparent bg-clip-text 
+     
+    </div>
+     <div className="overflow-hidden relative" id="documents">
+  <div className="flex animate-scroll">
+    <img src="./6.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
+    <img src="./1.jpg" alt="A tranquil forest path" className="w-1/3 object-contain scroll-image" />
+    <img src="./4.jpg" alt="A scenic view of nature" className="w-1/3 object-contain scroll-image" />
+    <img src="./5.jpg" alt="A beautiful city skyline" className="w-1/3 object-contain scroll-image" />
+    <img src="./6.jpg" alt="A stunning sunset over the ocean" className="w-1/3 object-contain scroll-image" />
+  </div>
+</div>
+
+
+<div className="flex-grow p-6 mx-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+  <div className="col-span-full text-center mb-1">
+    <h2 className={`text-3xl font-semibold text-transparent bg-clip-text 
                 bg-gradient-to-r from-blue-500 to-teal-400 
                 ${isAuthenticated ? 'animate-fadeIn' : 'animate-pulse'}
                 drop-shadow-lg`}>
-  {isAuthenticated ? `Welcome, ${user.name}!` : 'Please log in for a personalized experience.'}
-</h2>
+      {isAuthenticated ? `Welcome, ${user.name}!` : 'Please log in for a personalized experience.'}
+    </h2>
+  </div>
 
-        </div>
+  {navigationButtons.map((button, index) => (
+    <button
+      key={index}
+      onClick={() => navigate(button.route)}
+      className={`button bg-gradient-to-r ${button.gradient} text-white px-6 py-4 rounded-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 flex items-center justify-center`}
+    id="services"
+    >
+      <button.icon className="mr-2" size={24} /> {button.label}
+    </button>
+  ))}
+</div>
 
-        {navigationButtons.map((button, index) => (
-          <button
-            key={index}
-            onClick={() => navigate(button.route)}
-            className={`button bg-gradient-to-r ${button.gradient} text-white px-6 py-4 rounded-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 flex items-center justify-center`}
-          >
-            <button.icon className="mr-2" size={24} /> {button.label}
-          </button>
-        ))}
-      </div>
      {/* Profile Icon and Popup */}
-      <div className="fixed top-6 right-6 z-50"> 
+      <div className="fixed top-12 right-6 z-50"> 
   {isAuthenticated && ( // Only show the profile button if the user is authenticated
     <button
       onClick={toggleProfile}
@@ -177,7 +216,7 @@ const FirstPage = () => {
 
 
       {/* Applications and Latest Services Section */}
-      <div className="p-6 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="p-6 grid grid-cols-1 md:grid-cols-2 gap-6" id="application-status">
         {/* Application Status Section */}
         <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300">
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 flex items-center">
@@ -206,7 +245,7 @@ const FirstPage = () => {
         </div>
 
         {/* Latest Services Section */}
-        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300">
+        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300" id="latest-news">
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 flex items-center">
             <FaBolt className="mr-2 text-yellow-500" /> Latest Services
           </h3>
@@ -287,7 +326,7 @@ const FirstPage = () => {
       {/* Profile Section */}
       
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-6 mt-8">
+      <footer className="bg-gray-900 text-white py-6 mt-8" id="follow-us">
   <div className="mx-auto text-center space-y-4">
     <p className="text-gray-500 text-lg font-medium">Connect with us on social media</p>
     <div className="flex justify-center space-x-8">

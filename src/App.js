@@ -12,6 +12,7 @@ import HmwssbSecondPage from './components/HmwssbSecondPage';
 import EndowmentSecondPage from './components/EndowmentSecondPage';
 import CmdaSecondPage from './components/CmdaSecondPage';
 import PoliceSecondPage from './components/PoliceSecondPage';
+import ContactUs from './components/ContactUs';
 
 function App() {
   const { isAuthenticated, loginWithRedirect } = useAuth0();
@@ -22,12 +23,25 @@ function App() {
        
         <div className="flex justify-end space-x-4 mb-4">
           {!isAuthenticated ? (
+            <div className='flex flex-row justify-between items-center'>
+              {/* <div>
+             <img src="./logo.jpg" alt="logo" className='img align-start'/> 
+             </div> */}
+             <div>
             <button
               onClick={() => loginWithRedirect()}
-              className="bg-blue-500 text-white px-4 py-2 rounded"
+              className="bg-blue-500 text-white px-4 py-2 mr-5 rounded"
             >
               Log In
             </button>
+             <button
+             onClick={() => loginWithRedirect()}
+             className="bg-blue-500 text-white px-4 py-2 rounded"
+           >
+             Register
+           </button>
+           </div>
+           </div>
           ) : (
             <p></p>
           )}
@@ -44,6 +58,7 @@ function App() {
           <Route path="/ghmcsecond-page" element={<GhmcSecondPage />} />
           <Route path="/endowmentsecond-page" element={<EndowmentSecondPage />} />
           <Route path="/cmdasecond-page" element={<CmdaSecondPage />} />
+          <Route path="/contact-us" element={<ContactUs />} />
         </Routes>
       </div>
     </Router>
