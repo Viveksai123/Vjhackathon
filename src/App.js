@@ -14,7 +14,7 @@ import CmdaSecondPage from './components/CmdaSecondPage';
 import PoliceSecondPage from './components/PoliceSecondPage';
 
 function App() {
-  const { isAuthenticated, loginWithRedirect, logout } = useAuth0();
+  const { isAuthenticated, loginWithRedirect } = useAuth0();
 
   return (
     <Router>
@@ -29,12 +29,7 @@ function App() {
               Log In
             </button>
           ) : (
-            <button
-              onClick={() => logout({ returnTo: window.location.origin })}
-              className="bg-red-500 text-white px-4 py-2 rounded"
-            >
-              Log Out
-            </button>
+            <p></p>
           )}
         </div>
 

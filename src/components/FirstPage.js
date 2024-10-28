@@ -72,6 +72,10 @@ const FirstPage = () => {
           <img src="https://via.placeholder.com/300" alt="A beautiful city skyline" className="w-1/4 object-cover scroll-image" />
           <img src="https://via.placeholder.com/300" alt="A stunning sunset over the ocean" className="w-1/4 object-cover scroll-image" />
           <img src="https://via.placeholder.com/300" alt="A tranquil forest path" className="w-1/4 object-cover scroll-image" />
+          <img src="https://via.placeholder.com/300" alt="A scenic view of nature" className="w-1/4 object-cover scroll-image" />
+          <img src="https://via.placeholder.com/300" alt="A beautiful city skyline" className="w-1/4 object-cover scroll-image" />
+          <img src="https://via.placeholder.com/300" alt="A stunning sunset over the ocean" className="w-1/4 object-cover scroll-image" />
+          <img src="https://via.placeholder.com/300" alt="A tranquil forest path" className="w-1/4 object-cover scroll-image" />
         </div>
       </div>
 
@@ -92,18 +96,20 @@ const FirstPage = () => {
           </button>
         ))}
       </div>
-      {/* Profile Icon and Popup */}
-<div className="fixed top-6 right-6 z-50"> {/* Ensure high z-index */}
-  <button
-    onClick={toggleProfile}
-    className="bg-gray-800 text-white p-4 rounded-full shadow-lg hover:bg-gray-900 transition duration-200 focus:outline-none"
-    aria-label="Open Profile"
-  >
-    <FaUser size={24} />
-  </button>
-
+     {/* Profile Icon and Popup */}
+      <div className="fixed top-6 right-6 z-50"> 
+  {isAuthenticated && ( // Only show the profile button if the user is authenticated
+    <button
+      onClick={toggleProfile}
+      className="bg-gray-800 text-white p-4 rounded-full shadow-lg hover:bg-gray-900 transition duration-200 focus:outline-none"
+      aria-label="Open Profile"
+    >
+      <FaUser size={24} />
+    </button>
+  )}
+  
   {isProfileOpen && isAuthenticated && (
-    <div className="fixed top-16 right-6 w-80 max-h-96 bg-white rounded-lg shadow-lg p-4 z-50 overflow-y-auto"> {/* Apply scrolling */}
+    <div className="fixed top-16 right-6 w-80 max-h-96 bg-white rounded-lg shadow-lg p-4 z-50 overflow-y-auto"> 
       <button
         onClick={toggleProfile}
         className="absolute top-2 right-2 text-gray-600 hover:text-gray-900"
@@ -120,7 +126,7 @@ const FirstPage = () => {
         <h3 className="text-lg font-semibold text-gray-800">{user.name}</h3>
         <p className="text-gray-600">{userPhoneNumber}</p>
 
-        {/* Application Status Section */}
+       
         <div className="mt-4 w-full text-left">
           <h4 className="text-lg font-semibold text-gray-800">Add Documents:</h4>
           <ul className="mt-2 space-y-2">
@@ -137,7 +143,7 @@ const FirstPage = () => {
           </ul>
         </div>
 
-        {/* Add Documents Section */}
+   
         <div className="mt-6 w-full text-left">
           <h4 className="text-lg font-semibold text-gray-800">Applications:</h4>
           <ul className="mt-2 space-y-2">
@@ -166,16 +172,17 @@ const FirstPage = () => {
 </div>
 
 
+
       {/* Applications and Latest Services Section */}
       <div className="p-6 grid grid-cols-1 md:grid-cols-2 gap-6">
         {/* Application Status Section */}
-        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300 hover:scale-105">
+        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300">
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 flex items-center">
             <FaFileAlt className="mr-2 text-blue-500" /> Application Status
           </h3>
           <ul className="space-y-6">
             {documentVerification.map((doc, index) => (
-              <li key={index} className="flex items-center justify-between p-4 bg-gray-50 rounded-md hover:bg-gray-100 transition-all duration-200">
+              <li key={index} className="flex items-center justify-between p-4 bg-gray-50 rounded-md hover:bg-gray-100 transition-all duration-200  hover:scale-105">
                 <div className="flex items-center space-x-3">
                   <span className={`flex-shrink-0 w-10 h-10 rounded-full ${doc.status === 'verified' ? 'bg-green-500' : 'bg-yellow-500'} flex items-center justify-center text-white`}>
                     {doc.status === 'verified' ? <FaCheckCircle size={18} /> : <FaTimesCircle size={18} />}
@@ -196,7 +203,7 @@ const FirstPage = () => {
         </div>
 
         {/* Latest Services Section */}
-        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300 hover:scale-105">
+        <div className="bg-white p-6 rounded-lg shadow-md transform transition-transform duration-300">
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 flex items-center">
             <FaBolt className="mr-2 text-yellow-500" /> Latest Services
           </h3>
@@ -275,28 +282,7 @@ const FirstPage = () => {
     
 
       {/* Profile Section */}
-      {isProfileOpen && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-          <div className="bg-white rounded-lg p-6 w-1/3">
-            <h2 className="text-xl font-semibold mb-4">User Profile</h2>
-            <div className="flex flex-col mb-4">
-              <span><strong>Name:</strong> {user.name}</span>
-              <span><strong>Email:</strong> {user.email}</span>
-              <span><strong>Phone:</strong> {userPhoneNumber}</span>
-            </div>
-            <button
-              onClick={() => logout({ returnTo: window.location.origin })}
-              className="bg-red-500 text-white rounded-lg px-4 py-2 mt-4"
-            >
-              Logout
-            </button>
-            <button onClick={toggleProfile} className="absolute top-2 right-2">
-              <FaTimes className="text-red-500" />
-            </button>
-          </div>
-        </div>
-      )}
-
+      
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-6 mt-8">
   <div className="mx-auto text-center space-y-4">
