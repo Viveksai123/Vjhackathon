@@ -14,6 +14,7 @@ import CmdaSecondPage from './components/CmdaSecondPage';
 import PoliceSecondPage from './components/PoliceSecondPage';
 import ContactUs from './components/ContactUs';
 
+
 function App() {
   const { isAuthenticated, loginWithRedirect } = useAuth0();
 

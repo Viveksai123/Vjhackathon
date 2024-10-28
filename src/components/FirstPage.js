@@ -3,6 +3,7 @@ import Header from "./header";
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
+
 import {
   FaShieldAlt, FaBolt, FaWallet, FaBuilding, FaWater,
   FaCity, FaHandsHelping, FaFileAlt, FaComments, FaTimes,
@@ -102,6 +103,8 @@ const FirstPage = () => {
           <FaComments className="inline mr-1" size={16} /> Follow Us |
         </a>
       </div>
+
+
 
      
     </div>
